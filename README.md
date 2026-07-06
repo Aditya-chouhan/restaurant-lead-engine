@@ -28,6 +28,7 @@ python3 score_leads.py
 python3 brief_top_leads.py
 python3 dedupe_chains.py
 python3 build_dashboard.py
+python3 experiment_scoring_models.py
 ```
 
 No API keys, no dependencies beyond the Python standard library.
@@ -53,6 +54,13 @@ No API keys, no dependencies beyond the Python standard library.
 - `build_dashboard.py` — generates `rep_dashboard.html`, a single
   self-contained, sortable/searchable static page an AE would actually
   open, instead of reading JSON or markdown files directly.
+- `experiment_scoring_models.py` — a real A/B test between two scoring
+  hypotheses on the same 65 leads (no new data, pure re-scoring), measured
+  with top-10 overlap and Spearman rank correlation, ending in a written
+  decision. Result: raising the delivery-marketplace bonus from +15 to +30
+  changed 6/65 leads' absolute scores but zero rank order (10/10 top-10
+  overlap, 1.00 correlation) — a concrete "prototype, test, decide" cycle,
+  not a description of one.
 - `data/` — the real captured output of each stage.
 
 ## The precision lesson, found twice while building this

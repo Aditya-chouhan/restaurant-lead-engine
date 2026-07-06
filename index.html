@@ -103,6 +103,7 @@
       <span class="stage-pill"><b>4. brief</b> — rep pre-call brief, evidence-cited</span>
       <span class="stage-pill"><b>5. dedupe</b> — collapse real chains to 1 account</span>
       <span class="stage-pill"><b>6. dashboard</b> — a page an AE actually opens</span>
+      <span class="stage-pill"><b>7. experiment</b> — A/B test a scoring hypothesis</span>
     </div>
 
     <div class="detail-card">
@@ -203,6 +204,18 @@ to missed calls during peak hours.</pre>
       <p class="query-label"><code>build_dashboard.py</code> generates <code>rep_dashboard.html</code> — one self-contained file, sortable by score, searchable by name, click a row to expand its full brief</p>
       <p>Every earlier stage in this pipeline produces a file a GTM engineer can read — JSON, markdown. None of them are something an AE would actually open between calls. This closes that gap directly: no server, no build step, no framework — an AE double-clicks one HTML file and gets a working, sortable lead list with pre-call context inline. That's the literal ask in a GTM Engineer job description that names "a rep tooling layer that makes an AE genuinely faster" as a first-class responsibility, not an afterthought.</p>
       <p><a href="rep_dashboard.html" target="_blank" rel="noopener">Open the live rep dashboard →</a></p>
+    </div>
+
+    <div class="detail-card">
+      <span class="path">stage 7 — experiment: a real prototype → test → decide cycle</span>
+      <p class="query-label">Hypothesis: delivery-marketplace-only accounts deserve a stronger fit bonus (+30 instead of the shipped +15) because 15–30% commission pressure is as real a pain point as call-dependency</p>
+      <table class="result-table">
+        <tr><th>metric</th><th>result</th></tr>
+        <tr><td>leads with a changed absolute score</td><td class="num">6 / 65</td></tr>
+        <tr><td>top-10 overlap between Model A and Model B</td><td class="num">10 / 10</td></tr>
+        <tr><td>Spearman rank correlation (full ranked list)</td><td class="num">1.000</td></tr>
+      </table>
+      <p class="finding">The decision, written from the numbers rather than a feeling: <strong>ship Model A as-is.</strong> Six leads' scores did move, but the shift was uniform within that group and never crossed another lead's score band, so who-gets-called-first came out completely unchanged. The delivery-commission hypothesis might still be true, but a flat scoring bonus this size is the wrong lever to test it with — worth remembering before shipping the next "obviously better" weight change. This is the JD's "prototype, test, and roll out" line, run once, on real data, with a real (negative) result kept rather than discarded.</p>
     </div>
   </section>
 

@@ -1,0 +1,10 @@
+{
+  "hypothesis": "Delivery-marketplace-only accounts deserve a stronger fit bonus (+30 instead of +15) because commission pressure (15-30% per order) is as real a pain point as call-dependency.",
+  "model_a_delivery_bonus": 15,
+  "model_b_delivery_bonus": 30,
+  "top10_overlap_of_10": 10,
+  "spearman_rank_correlation": 1.0,
+  "leads_with_changed_absolute_score": 6,
+  "total_leads": 65,
+  "decision": "Ship Model A as-is. 6/65 leads' absolute scores did move when the delivery bonus went from +15 to +30, but the shift was uniform within that group and never crossed another lead's score band \u2014 rank order came out fully invariant (10/10 top-10 overlap, 1.00 rank correlation). The delivery-commission hypothesis may still be true, but this scoring model isn't the right place to encode it \u2014 a flat bonus this size doesn't change who gets called first. Not worth the added complexity for this dataset."
+}

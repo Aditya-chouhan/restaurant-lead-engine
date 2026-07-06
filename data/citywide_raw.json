@@ -1,0 +1,2402 @@
+[
+  {
+    "osm_id": 305499273,
+    "name": "Court Street",
+    "website": "https://www.courtstreet.com/",
+    "phone": "+1-201-795-4515"
+  },
+  {
+    "osm_id": 357620442,
+    "name": "Sam Sunny",
+    "website": "https://www.samsunnynyc.com",
+    "phone": "+1-212-837-1044"
+  },
+  {
+    "osm_id": 368043718,
+    "name": "Moono",
+    "website": "https://www.moononyc.com",
+    "phone": "+1-646-429-8309"
+  },
+  {
+    "osm_id": 380044344,
+    "name": "Pedro's",
+    "website": "https://pedrosbrooklyn.com",
+    "phone": "+1-718-797-2851"
+  },
+  {
+    "osm_id": 410235438,
+    "name": "Trudy's Ice Cream",
+    "website": "https://trudysicecream.com",
+    "phone": "+1-646-649-3612"
+  },
+  {
+    "osm_id": 419359942,
+    "name": "Boutros",
+    "website": "https://boutrosbk.com",
+    "phone": "+1-718-403-0055"
+  },
+  {
+    "osm_id": 419359956,
+    "name": "Bubo",
+    "website": "https://www.bubonyc.com",
+    "phone": "+1-212-532-3300"
+  },
+  {
+    "osm_id": 419359995,
+    "name": "Little Alley",
+    "website": "https://www.littlealley.nyc",
+    "phone": "+1-646-998-3976"
+  },
+  {
+    "osm_id": 419361808,
+    "name": "Mikado",
+    "website": "https://newmikadonyc.com/",
+    "phone": "+1-212-381-1388"
+  },
+  {
+    "osm_id": 419362699,
+    "name": "The Musket Room",
+    "website": "https://www.musketroom.com",
+    "phone": "+1-212-219-0764"
+  },
+  {
+    "osm_id": 419367357,
+    "name": "Nha Trang One",
+    "website": "https://nhatrangnyc.net/",
+    "phone": "+1-212-233-5948"
+  },
+  {
+    "osm_id": 570912397,
+    "name": "Le Monde",
+    "website": "https://lemondenyc.com/",
+    "phone": "+1 212-531-3939"
+  },
+  {
+    "osm_id": 617741196,
+    "name": "Sol Et Soleil",
+    "website": "https://soletsoleil.com/",
+    "phone": "+1-518-536-3183"
+  },
+  {
+    "osm_id": 643414350,
+    "name": "Hard Rock Cafe",
+    "website": "https://www.hardrockcafe.com/location/new-york/",
+    "phone": "+1 212-343-3355"
+  },
+  {
+    "osm_id": 662433328,
+    "name": "Freemans",
+    "website": "https://www.freemansrestaurant.com",
+    "phone": "+1-212-420-0012"
+  },
+  {
+    "osm_id": 662435489,
+    "name": "Aurora",
+    "website": "https://www.aurorabk.com",
+    "phone": "+1-718-388-5100"
+  },
+  {
+    "osm_id": 663104998,
+    "name": "Tick Tock Diner",
+    "website": "https://www.ticktockdinerny.com",
+    "phone": "+1 212-268-8444"
+  },
+  {
+    "osm_id": 763650163,
+    "name": "Junior's",
+    "website": "https://www.juniorscheesecake.com/blog/restaurants/times-square/",
+    "phone": "+1 212-302-2000"
+  },
+  {
+    "osm_id": 765800358,
+    "name": "Diner",
+    "website": "https://www.dinernyc.com/",
+    "phone": "+1-718-486-3077"
+  },
+  {
+    "osm_id": 813645468,
+    "name": "Graziella's",
+    "website": "https://www.graziellasmenu.com/",
+    "phone": "+1-718-789-5663"
+  },
+  {
+    "osm_id": 818239355,
+    "name": "Dannee Thai",
+    "website": "https://www.danneethaibrooklynny.com",
+    "phone": "+1-718-622-4422"
+  },
+  {
+    "osm_id": 888968071,
+    "name": "Ako",
+    "website": "https://akosushi.com/",
+    "phone": "+1-718-302-2035"
+  },
+  {
+    "osm_id": 931799207,
+    "name": "Joe's Pizza",
+    "website": "https://www.joespizzanyc.com/",
+    "phone": "+1 212-366-1182"
+  },
+  {
+    "osm_id": 1002880708,
+    "name": "Lombardi's Pizza",
+    "website": "https://www.firstpizza.com/",
+    "phone": "+1-212-941-7994"
+  },
+  {
+    "osm_id": 1112477518,
+    "name": "M\u1ed9c M\u1ea1c",
+    "website": "https://mocmacnyc.com",
+    "phone": "+1-516-943-9347"
+  },
+  {
+    "osm_id": 1119244578,
+    "name": "Tom's Restaurant",
+    "website": "https://tomsrestaurant.net/",
+    "phone": "+1 212-864-6137"
+  },
+  {
+    "osm_id": 1160379352,
+    "name": "Osaka",
+    "website": "https://www.osakany.com",
+    "phone": "+1-718-643-0044"
+  },
+  {
+    "osm_id": 1227678751,
+    "name": "The River Caf\u00e9",
+    "website": "https://www.rivercafe.com/",
+    "phone": "+1 718 522 5200"
+  },
+  {
+    "osm_id": 1240483946,
+    "name": "Bill's Townhouse",
+    "website": "https://www.billstownhouse.com/",
+    "phone": "+1 212-518-2727"
+  },
+  {
+    "osm_id": 1293173596,
+    "name": "Marchi's",
+    "website": "https://www.marchirestaurant.com/",
+    "phone": "+1-212-679-2494"
+  },
+  {
+    "osm_id": 1297282272,
+    "name": "Amelia's",
+    "website": "https://www.amelias.nyc",
+    "phone": "+1-646-850-0044"
+  },
+  {
+    "osm_id": 1346386984,
+    "name": "Smith & Wollensky",
+    "website": "https://www.smithandwollenskynyc.com/",
+    "phone": "+1-212-753-1530"
+  },
+  {
+    "osm_id": 1362703566,
+    "name": "Clinton St. Baking Company",
+    "website": "https://clintonstreetbaking.com/",
+    "phone": "+1-646-602-6263"
+  },
+  {
+    "osm_id": 1379410005,
+    "name": "Stromboli Pizza",
+    "website": "https://www.strombolipizzeria.com/",
+    "phone": "+1 212-673-3691"
+  },
+  {
+    "osm_id": 1383927735,
+    "name": "Blue Ribbon Sushi Bar & Grill",
+    "website": "https://www.blueribbonsushibarandgrillnyc.com/",
+    "phone": "+1-212-397-0404"
+  },
+  {
+    "osm_id": 1383928351,
+    "name": "Sushi Damo",
+    "website": "https://sushidamo58.com/",
+    "phone": "+1 212-707-8609"
+  },
+  {
+    "osm_id": 1383955759,
+    "name": "Carnegie Diner & Cafe",
+    "website": "https://www.carnegiediner.com/location/carnegie-diner-central-park/",
+    "phone": "+1-212-664-1001"
+  },
+  {
+    "osm_id": 1383956543,
+    "name": "Brooklyn Diner",
+    "website": "https://www.brooklyndiner.com/location/brooklyn-diner-57st/",
+    "phone": "+1 212-977-1957"
+  },
+  {
+    "osm_id": 1427212491,
+    "name": "Pera",
+    "website": "https://www.peranyc.com/",
+    "phone": "+1 212-878-6301"
+  },
+  {
+    "osm_id": 1428185705,
+    "name": "Mama Mezze",
+    "website": "https://www.hillcountrychicken.com/",
+    "phone": "+1-212-257-6446"
+  },
+  {
+    "osm_id": 1493005667,
+    "name": "Balade",
+    "website": "https://www.baladerestaurants.com",
+    "phone": "+1-212 529-6868"
+  },
+  {
+    "osm_id": 1667359770,
+    "name": "Chocolat Restaurant Lounge",
+    "website": "https://chocolatharlem.com/",
+    "phone": "+1-212-222-4545"
+  },
+  {
+    "osm_id": 1667402832,
+    "name": "The Fox",
+    "website": "https://thefoxharlem.com/",
+    "phone": "+1-212-500-6175"
+  },
+  {
+    "osm_id": 1667412535,
+    "name": "Melba's",
+    "website": "https://www.melbasrestaurant.com",
+    "phone": "+1-212-864-7777"
+  },
+  {
+    "osm_id": 1683399834,
+    "name": "Bar Bianchi",
+    "website": "https://www.barbianchinyc.com/",
+    "phone": "+1-646-490-6004"
+  },
+  {
+    "osm_id": 1707825815,
+    "name": "Zoob Zib Thai Authentic Noodle Bar",
+    "website": "https://www.zoobzibnyc.com/",
+    "phone": "+1-212-971-8530"
+  },
+  {
+    "osm_id": 1707825816,
+    "name": "Skylight Diner",
+    "website": "https://skylightdinernyc.com/",
+    "phone": "+1-212-244-0395"
+  },
+  {
+    "osm_id": 1707825817,
+    "name": "Hudson Station Bar and Grill",
+    "website": "https://www.hudsonstation.com",
+    "phone": "+1 212-244-4406"
+  },
+  {
+    "osm_id": 1714427541,
+    "name": "Shmon\u00e9",
+    "website": "https://www.shmonenyc.com",
+    "phone": "+1-646-438-9815"
+  },
+  {
+    "osm_id": 1741221041,
+    "name": "Grimaldi's Pizzeria",
+    "website": "https://www.grimaldispizzeria.com/locations/1-front-street-brooklyn/",
+    "phone": "+1-718-858-4300"
+  },
+  {
+    "osm_id": 1748991484,
+    "name": "Chu Ros Thai",
+    "website": "https://churosthainyc.com/",
+    "phone": "+1-917-265-8432"
+  },
+  {
+    "osm_id": 1748991489,
+    "name": "Burritos y Mas",
+    "website": "https://burritosymasnyc.com",
+    "phone": "+1-646-918-4748"
+  },
+  {
+    "osm_id": 1749011039,
+    "name": "El Aguila",
+    "website": "http://elaguilanewyorkrestaurant.com",
+    "phone": "+1 212-426-2221"
+  },
+  {
+    "osm_id": 1749011095,
+    "name": "The Lexington Social",
+    "website": "https://tlstapasbar.com/",
+    "phone": "+1 646-820-7013"
+  },
+  {
+    "osm_id": 1749011123,
+    "name": "Bawarchi Indian Cuisine",
+    "website": "http://bawarchis.com",
+    "phone": "+1 212-289-7700"
+  },
+  {
+    "osm_id": 1758217485,
+    "name": "The Playwright",
+    "website": "https://www.playwrighttavern.com/",
+    "phone": "+1 212-262-9263"
+  },
+  {
+    "osm_id": 1821015959,
+    "name": "City Diner",
+    "website": "https://citydinernyc.net",
+    "phone": "+1-212-877-2720"
+  },
+  {
+    "osm_id": 1821015975,
+    "name": "5 Napkin Burger",
+    "website": "https://www.5napkinburger.com/location/upper-west-side-5napkinburger/",
+    "phone": "+1-212-333-4488"
+  },
+  {
+    "osm_id": 1825848800,
+    "name": "Manhattan Valley",
+    "website": "https://www.manhattanvalleyny.com/",
+    "phone": "+1-212-222-9222"
+  },
+  {
+    "osm_id": 1825848802,
+    "name": "Metro Diner",
+    "website": "https://www.metrodiner.nyc",
+    "phone": "+1-212-866-0800"
+  },
+  {
+    "osm_id": 1825848804,
+    "name": "Just Pho You",
+    "website": "https://justphoyounyc.com",
+    "phone": "+1-646-822-5178"
+  },
+  {
+    "osm_id": 1827781718,
+    "name": "El Castillo De Jagua",
+    "website": "http://castillodejagua2.com",
+    "phone": "+1 212-995-0244"
+  },
+  {
+    "osm_id": 1843430243,
+    "name": "Sipsteria",
+    "website": "https://www.sipsteria.com",
+    "phone": "+1-917-388-2076"
+  },
+  {
+    "osm_id": 1843430256,
+    "name": "Ozen",
+    "website": "http://www.ozencuisine.com/",
+    "phone": "+1 212 678 0300"
+  },
+  {
+    "osm_id": 1873813860,
+    "name": "5 Napkin Burger",
+    "website": "https://www.5napkinburger.com/location/hell-s-kitchen-5napkinburger/",
+    "phone": "+1-212-757-2277"
+  },
+  {
+    "osm_id": 1883739637,
+    "name": "Laut",
+    "website": "https://www.lautnyc.com/",
+    "phone": "+1 212-206-8989"
+  },
+  {
+    "osm_id": 1884473154,
+    "name": "Vanessa's Dumpling House",
+    "website": "https://vanessas.com/",
+    "phone": "+1-212-625-8008"
+  },
+  {
+    "osm_id": 1913191317,
+    "name": "Bosino",
+    "website": "https://bosinonyc.com",
+    "phone": "+16467558770"
+  },
+  {
+    "osm_id": 1915398676,
+    "name": "Katz's Delicatessen",
+    "website": "https://www.katzsdelicatessen.com",
+    "phone": "+1-212-254-2246"
+  },
+  {
+    "osm_id": 1916532788,
+    "name": "Mercato",
+    "website": "https://mercatonyc.com/",
+    "phone": "+1-212-643-2000"
+  },
+  {
+    "osm_id": 1934502370,
+    "name": "Blue Smoke",
+    "website": "https://www.bluesmoke.com/location/battery-park-city/",
+    "phone": "+1-212-889-2005"
+  },
+  {
+    "osm_id": 1999231233,
+    "name": "Limosneros",
+    "website": "https://limosnerosbk.com",
+    "phone": "+1 934-867-9358"
+  },
+  {
+    "osm_id": 2015863190,
+    "name": "Layla Jones",
+    "website": "http://laylajones.com",
+    "phone": "+1-718-624-2361"
+  },
+  {
+    "osm_id": 2017643713,
+    "name": "Vinnies Pizzeria",
+    "website": "https://www.vinniesbrooklyn.com/",
+    "phone": "+1-718-782-7078"
+  },
+  {
+    "osm_id": 2065153935,
+    "name": "Rinc\u00f3n Melania",
+    "website": "https://rinconmelanianyc.com/",
+    "phone": "+1 718-361-1905"
+  },
+  {
+    "osm_id": 2065172290,
+    "name": "Tangra Asian Fusion",
+    "website": "https://www.tangrafusionnyc.com/",
+    "phone": "+1 718-786-8181"
+  },
+  {
+    "osm_id": 2065685392,
+    "name": "Philomena's Pizza",
+    "website": "https://www.philomenasqueens.com/",
+    "phone": "+1 718-225-1778"
+  },
+  {
+    "osm_id": 2070982507,
+    "name": "P.J. Clarke's",
+    "website": "https://pjclarkes.com/location/on-the-hudson/",
+    "phone": "+12122851500"
+  },
+  {
+    "osm_id": 2081539634,
+    "name": "LOVE Korean BBQ",
+    "website": "https://lovekoreanbbq.com/",
+    "phone": "+1-646-669-8147"
+  },
+  {
+    "osm_id": 2089444284,
+    "name": "Pappardella",
+    "website": "https://www.pappardella.com/",
+    "phone": "+1 212 595 7996"
+  },
+  {
+    "osm_id": 2089444285,
+    "name": "The Smith",
+    "website": "https://thesmithrestaurant.com/",
+    "phone": "+1-212-496-5700"
+  },
+  {
+    "osm_id": 2091642033,
+    "name": "Trattoria iL Gusto",
+    "website": "https://ilgustowinebar.com",
+    "phone": "+1-212-579-7970"
+  },
+  {
+    "osm_id": 2101983249,
+    "name": "Ozu",
+    "website": "http://www.ozu78.com/",
+    "phone": "+1-718-797-3288"
+  },
+  {
+    "osm_id": 2101984777,
+    "name": "Clark's Restaurant",
+    "website": "https://www.clarksdiner.com",
+    "phone": "+1-718-855-5484"
+  },
+  {
+    "osm_id": 2108362680,
+    "name": "Saba's Pizza",
+    "website": "http://www.sabaspizzanyc.com",
+    "phone": "+1-212-787-1118"
+  },
+  {
+    "osm_id": 2111692827,
+    "name": "Kouzan",
+    "website": "https://www.kouzanny.com/",
+    "phone": "+1-212-280-8099"
+  },
+  {
+    "osm_id": 2113159212,
+    "name": "WAU",
+    "website": "https://waunyc.com",
+    "phone": "+1-917-261-5926"
+  },
+  {
+    "osm_id": 2125873488,
+    "name": "Pio Pio",
+    "website": "https://www.piopio.com/locations/upper_west_side.html",
+    "phone": "+1 212 665-3000"
+  },
+  {
+    "osm_id": 2125873489,
+    "name": "Jing Fong Restaurant",
+    "website": "https://jingfongny.com",
+    "phone": "+1 646-678-5511"
+  },
+  {
+    "osm_id": 2131698464,
+    "name": "Haru Sushi",
+    "website": "https://www.harusushi.com/location/newyork_amsterdamave",
+    "phone": "+1-212-579-5655"
+  },
+  {
+    "osm_id": 2131791182,
+    "name": "Bohemian Spirit Restaurant",
+    "website": "https://bohemianspiritrestaurant.com/",
+    "phone": "+1 212-861-1038"
+  },
+  {
+    "osm_id": 2134025590,
+    "name": "Del Frisco's Double Eagle Steakhouse",
+    "website": "https://delfriscos.com/steakhouse/new-york/",
+    "phone": "+1 212-575-5129"
+  },
+  {
+    "osm_id": 2139124594,
+    "name": "Luanne's",
+    "website": "http://www.luanneswildgingernyc.com",
+    "phone": "+1-718-638-8868"
+  },
+  {
+    "osm_id": 2178443636,
+    "name": "Parkside Lounge",
+    "website": "https://www.parksidelounge.net/",
+    "phone": "+1-212-673-6270"
+  },
+  {
+    "osm_id": 2183010463,
+    "name": "Giardino D'Oro",
+    "website": "https://giardinodoro.com",
+    "phone": "+1 212-514-6400"
+  },
+  {
+    "osm_id": 2183891976,
+    "name": "Taste of Tokyo",
+    "website": "https://www.tasteoftokyony.com",
+    "phone": "+1-212-809-4711"
+  },
+  {
+    "osm_id": 2183891980,
+    "name": "Centric",
+    "website": "http://www.urbanspoon.com/cities/3-new-york/restaurants/1890823-dina-rata/menu",
+    "phone": "+1-212-590-1234"
+  },
+  {
+    "osm_id": 2186614177,
+    "name": "Delmonico's",
+    "website": "http://www.delmonicosny.com",
+    "phone": "+12125091144"
+  },
+  {
+    "osm_id": 2186614185,
+    "name": "Joseph's Ristorante",
+    "website": "https://www.josephsnyc.com",
+    "phone": "+1-212-747-1300"
+  },
+  {
+    "osm_id": 2186614188,
+    "name": "Lenwich",
+    "website": "https://www.lenwich.com/location/financial-district-hanover/",
+    "phone": "+1-212-385-2828"
+  },
+  {
+    "osm_id": 2192621389,
+    "name": "ROKA Modern Mediterranean",
+    "website": "https://www.rokamediterranean.com/",
+    "phone": "+1-347-599-0313"
+  },
+  {
+    "osm_id": 2192629490,
+    "name": "Abracadabra",
+    "website": "http://abracadabrabrooklyn.com/",
+    "phone": "+1-347-844-9157"
+  },
+  {
+    "osm_id": 2195218446,
+    "name": "Village Square Pizza",
+    "website": "https://villagesquarepizzanyc.com/",
+    "phone": "+1-212-901-3719"
+  },
+  {
+    "osm_id": 2207131883,
+    "name": "Namkeen",
+    "website": "https://www.eatnamkeen.com/",
+    "phone": "+1-347-658-3383"
+  },
+  {
+    "osm_id": 2226852197,
+    "name": "Jean-Georges",
+    "website": "https://www.jean-georges.com/restaurants/united-states/new-york/jean-georges",
+    "phone": "+1 212-299-3900"
+  },
+  {
+    "osm_id": 2268954347,
+    "name": "Paulie Gee's",
+    "website": "https://www.pauliegee.com/",
+    "phone": "+1-347-987-3747"
+  },
+  {
+    "osm_id": 2275484420,
+    "name": "Calexico",
+    "website": "https://www.calexico.com/location/greenpoint/",
+    "phone": "+1 347-763-2129"
+  },
+  {
+    "osm_id": 2279017957,
+    "name": "Fumo",
+    "website": "https://www.fumorestaurant.com/location/fumo-upper-west-side/",
+    "phone": "+1-646-822-2921"
+  },
+  {
+    "osm_id": 2279536009,
+    "name": "The Laurels",
+    "website": "https://thelaurelsnyc.com",
+    "phone": "+1-646-398-9002"
+  },
+  {
+    "osm_id": 2279542456,
+    "name": "IHOP",
+    "website": "https://restaurants.ihop.com/en-us/ny/new-york/breakfast-235-e-14th-st-237-3357",
+    "phone": "+1 212-388-1499"
+  },
+  {
+    "osm_id": 2297545260,
+    "name": "Gennaro",
+    "website": "http://www.gennaronyc.com",
+    "phone": "+1 212-665-5348"
+  },
+  {
+    "osm_id": 2297753287,
+    "name": "Mido",
+    "website": "https://www.midojapanese.com",
+    "phone": "+1-212-877-0033"
+  },
+  {
+    "osm_id": 2297755493,
+    "name": "French Roast",
+    "website": "https://www.frenchroastnyc.com/",
+    "phone": "+1-212-799-1533"
+  },
+  {
+    "osm_id": 2298854540,
+    "name": "Poulet Sans T\u00eate",
+    "website": "https://www.pouletsanstete.com/location/poulet-sans-tete-upper-west-side/",
+    "phone": "+1-212-405-4105"
+  },
+  {
+    "osm_id": 2300348734,
+    "name": "Chote Nawab",
+    "website": "https://www.chotenawabnyc.com/",
+    "phone": "+1-212-679-4603"
+  },
+  {
+    "osm_id": 2300348739,
+    "name": "Haandi",
+    "website": "https://haandiny.com/",
+    "phone": "+1-212-685-5200"
+  },
+  {
+    "osm_id": 2300362286,
+    "name": "Diner 24",
+    "website": "https://diner24nyc.com",
+    "phone": "+1-646-852-6921"
+  },
+  {
+    "osm_id": 2304436426,
+    "name": "Tripoli",
+    "website": "https://www.tripolirestaurant.com/",
+    "phone": "+1-718-596-5800"
+  },
+  {
+    "osm_id": 2307164626,
+    "name": "Barn Joo Nomad",
+    "website": "https://www.barnjoonomad.com",
+    "phone": "+1-917-409-1637"
+  },
+  {
+    "osm_id": 2310498469,
+    "name": "Marlow Bistro",
+    "website": "https://www.marlowbistro.com/",
+    "phone": "+12126629020"
+  },
+  {
+    "osm_id": 2312065724,
+    "name": "Carmine's",
+    "website": "https://www.carminesnyc.com/locations/upper-west-side",
+    "phone": "+12123622200"
+  },
+  {
+    "osm_id": 2312065757,
+    "name": "Smoke Jazz & Supper Club",
+    "website": "https://www.smokejazz.com/",
+    "phone": "+1-212-864-6662"
+  },
+  {
+    "osm_id": 2321103071,
+    "name": "Felice",
+    "website": "https://www.felicerestaurants.com/felice-montague",
+    "phone": "+1-718-475-9877"
+  },
+  {
+    "osm_id": 2322155492,
+    "name": "Hell's Kitchen",
+    "website": "https://www.hkhellskitchen.com/",
+    "phone": "+1-212-947-4208"
+  },
+  {
+    "osm_id": 2334601455,
+    "name": "M-Thai",
+    "website": "www.M-Thainyc.com",
+    "phone": "+1 212 229-9799"
+  },
+  {
+    "osm_id": 2348727670,
+    "name": "Bareburger",
+    "website": "https://order.bareburger.com/bareburger-court-street/menu",
+    "phone": "+1-347-529-6673"
+  },
+  {
+    "osm_id": 2357685321,
+    "name": "Marco Polo Ristorante",
+    "website": "https://www.marcopoloristorante.com/",
+    "phone": "+1-718-852-5015"
+  },
+  {
+    "osm_id": 2358048510,
+    "name": "North Square",
+    "website": "https://northsquareny.com",
+    "phone": "+1-212-254-1200"
+  },
+  {
+    "osm_id": 2358048515,
+    "name": "Waverly Diner",
+    "website": "https://waverlydiner.com",
+    "phone": "+1-212-675-3181"
+  },
+  {
+    "osm_id": 2377128157,
+    "name": "LOULOU",
+    "website": "https://www.loulounyc.com/",
+    "phone": "+1-212-337-9577"
+  },
+  {
+    "osm_id": 2377128169,
+    "name": "Lasagna Ristorante",
+    "website": "https://lasagnarestaurantchelsea.com",
+    "phone": "+1-212-242-4551"
+  },
+  {
+    "osm_id": 2377128186,
+    "name": "Temerarion",
+    "website": "https://www.temerarionyc.com",
+    "phone": "+1-212-645-2100"
+  },
+  {
+    "osm_id": 2384892236,
+    "name": "The Ellington",
+    "website": "https://www.theellingtonny.com",
+    "phone": "+1-212-281-3011"
+  },
+  {
+    "osm_id": 2384892243,
+    "name": "Serafina",
+    "website": "https://serafinawest105.com",
+    "phone": "+1 212 301 0664"
+  },
+  {
+    "osm_id": 2387013568,
+    "name": "Nabila's",
+    "website": "https://www.nabilasbk.com",
+    "phone": "+1-347-689-9504"
+  },
+  {
+    "osm_id": 2387017165,
+    "name": "Awash Ethiopian Restaurant",
+    "website": "https://www.awashny.com",
+    "phone": "+1-718-243-2151"
+  },
+  {
+    "osm_id": 2387017404,
+    "name": "Moo Burger",
+    "website": "http://mooburger.net",
+    "phone": "+1-718-246-8259"
+  },
+  {
+    "osm_id": 2407447000,
+    "name": "Pad Thai",
+    "website": "https://www.padthai8thave.com/",
+    "phone": "+1 212 268-2752"
+  },
+  {
+    "osm_id": 2408375729,
+    "name": "Dallas BBQ",
+    "website": "https://www.dallasbbq.com/chelsea",
+    "phone": "+1-212-462-0001"
+  },
+  {
+    "osm_id": 2409398826,
+    "name": "Nina's Great Burrito Bar",
+    "website": "http://ninasgreatburritobar.com/",
+    "phone": "+1-212-724-5151"
+  },
+  {
+    "osm_id": 2409398831,
+    "name": "Viand",
+    "website": "https://theviand.com",
+    "phone": "+1-212-362-3333"
+  },
+  {
+    "osm_id": 2409935353,
+    "name": "Famous Original Ray's Pizza",
+    "website": "famousoriginalrayschelsea.com",
+    "phone": "+1-212-243-1129"
+  },
+  {
+    "osm_id": 2409946234,
+    "name": "The Meatball Company",
+    "website": "https://www.themeatballshop.com/locations/#chelsea",
+    "phone": "+1 212-257-4363"
+  },
+  {
+    "osm_id": 2410485653,
+    "name": "Qanoon",
+    "website": "https://www.qanoonnyc.com",
+    "phone": "+1 646-843-9711"
+  },
+  {
+    "osm_id": 2411595316,
+    "name": "Omai",
+    "website": "https://omainyc.com/",
+    "phone": "+1 212-633-0575; +1 212-633-0550"
+  },
+  {
+    "osm_id": 2411595856,
+    "name": "Tipsy Parson",
+    "website": "https://www.tipsyparson.com/",
+    "phone": "+1 212-620-4545"
+  },
+  {
+    "osm_id": 2411819330,
+    "name": "Salinas",
+    "website": "https://salinasnyc.com/",
+    "phone": "+1 212-776-1990"
+  },
+  {
+    "osm_id": 2412370159,
+    "name": "Olde City",
+    "website": "https://www.loveoldecity.com/",
+    "phone": "+1 929-281-3222"
+  },
+  {
+    "osm_id": 2414094435,
+    "name": "Tarallucci e Vino",
+    "website": "https://www.taralluccievino.net/upper-west-side-location",
+    "phone": "+1-212-362-5454"
+  },
+  {
+    "osm_id": 2443892142,
+    "name": "La Vera Pizza",
+    "website": "https://www.laverapizzanycbroadway.com",
+    "phone": "+1-212-866-6500"
+  },
+  {
+    "osm_id": 2457196622,
+    "name": "Peaches HotHouse",
+    "website": "http://peacheshothouse.com/",
+    "phone": "+1 718 483-9111"
+  },
+  {
+    "osm_id": 2478495089,
+    "name": "BLT Fish",
+    "website": "http://bltfish.com/",
+    "phone": "+1 212 691-8888"
+  },
+  {
+    "osm_id": 2478495091,
+    "name": "Aldea",
+    "website": "https://aldearestaurant.com/",
+    "phone": "+1 212 675-7223"
+  },
+  {
+    "osm_id": 2479458329,
+    "name": "Hakata TonTon",
+    "website": "https://www.hakatatonton.net/",
+    "phone": "+1-917-261-6536"
+  },
+  {
+    "osm_id": 2479519219,
+    "name": "Dinosaur Bar-B-Que",
+    "website": "https://dinosaurbarbque.com/",
+    "phone": "+1 212 694-1777"
+  },
+  {
+    "osm_id": 2482618660,
+    "name": "American Cut",
+    "website": "https://www.americancutsteakhouse.com/",
+    "phone": "+1 212 226-4736"
+  },
+  {
+    "osm_id": 2483716076,
+    "name": "Peter Luger Steak House",
+    "website": "https://peterluger.com/",
+    "phone": "+1-718-387-7400"
+  },
+  {
+    "osm_id": 2485355797,
+    "name": "Sunnyside Pizza",
+    "website": "http://www.sunnyside-pizza.com",
+    "phone": "+1 718-433-4040"
+  },
+  {
+    "osm_id": 2487458479,
+    "name": "Golden Unicorn",
+    "website": "https://www.goldenunicornrestaurant.com/",
+    "phone": "+1 212 941 0911"
+  },
+  {
+    "osm_id": 2494064615,
+    "name": "Osteria Brooklyn",
+    "website": "https://www.osteriabrooklyn.com",
+    "phone": "+1-646-750-9156"
+  },
+  {
+    "osm_id": 2494064857,
+    "name": "Myrtle Thai",
+    "website": "https://www.myrtlethaibk.com",
+    "phone": "+1-718-422-1142"
+  },
+  {
+    "osm_id": 2494071312,
+    "name": "Joloff",
+    "website": "https://www.joloffjoloff.com",
+    "phone": "+1-718-230-0523"
+  },
+  {
+    "osm_id": 2494071332,
+    "name": "Bombay Grill",
+    "website": "https://bombaygrillbk.com",
+    "phone": "+1-718-484-0004"
+  },
+  {
+    "osm_id": 2494077024,
+    "name": "LaRina",
+    "website": "https://larinabk.com",
+    "phone": "+1-718-852-0001"
+  },
+  {
+    "osm_id": 2494077206,
+    "name": "Dellarocco's Pizza",
+    "website": "https://www.dellaroccospizza.com/",
+    "phone": "+1-718-858-1010"
+  },
+  {
+    "osm_id": 2494152939,
+    "name": "Chama Mama",
+    "website": "https://www.chamamama.com/location/chama-mama-montague/",
+    "phone": "+1-347-689-2725"
+  },
+  {
+    "osm_id": 2494160674,
+    "name": "Paul's \"Da Burger Joint\"",
+    "website": "https://paulsburgersnyc.com",
+    "phone": "+1-212-529-3033"
+  },
+  {
+    "osm_id": 2494161089,
+    "name": "Mr. Keke",
+    "website": "https://www.mrkeke.net/restaurant-location-manhattan",
+    "phone": "+1-917-328-5777"
+  },
+  {
+    "osm_id": 2494177543,
+    "name": "Recette",
+    "website": "https://www.recettebrooklyn.com/",
+    "phone": "+1 347 227 8829"
+  },
+  {
+    "osm_id": 2494194596,
+    "name": "Mizu",
+    "website": "https://www.mizubrooklyn.com/",
+    "phone": "+1-718-782-6666"
+  },
+  {
+    "osm_id": 2494254644,
+    "name": "Gage & Tollner",
+    "website": "https://www.gageandtollner.com",
+    "phone": "+1-347-689-3677"
+  },
+  {
+    "osm_id": 2494312651,
+    "name": "Henry's End",
+    "website": "https://www.henrysend.com",
+    "phone": "+1-718-834-1776"
+  },
+  {
+    "osm_id": 2501572681,
+    "name": "Chat n Chew",
+    "website": "https://chatnchewnyc.com/",
+    "phone": "+1-212-243-1616"
+  },
+  {
+    "osm_id": 2516877509,
+    "name": "Txikito",
+    "website": "https://www.txikitonyc.com/",
+    "phone": "+1 212-242-4730"
+  },
+  {
+    "osm_id": 2517051874,
+    "name": "Riverpark",
+    "website": "https://www.riverparknyc.com/",
+    "phone": "+1 212 729-9790"
+  },
+  {
+    "osm_id": 2522452461,
+    "name": "Port Sa'id",
+    "website": "https://www.portsaidnyc.com/",
+    "phone": "+1-212-256-0841"
+  },
+  {
+    "osm_id": 2523787351,
+    "name": "The Long Island Bar",
+    "website": "https://www.thelongislandbar.com/",
+    "phone": "+1-718-625-8908"
+  },
+  {
+    "osm_id": 2523787385,
+    "name": "Hibino",
+    "website": "https://hibino-brooklyn.com/",
+    "phone": "+17182608052"
+  },
+  {
+    "osm_id": 2524539476,
+    "name": "Barbalu",
+    "website": "https://www.barbalu.com/",
+    "phone": "+1-347-294-4287"
+  },
+  {
+    "osm_id": 2524934986,
+    "name": "Sala Thai",
+    "website": "https://salathainyc.com",
+    "phone": "+1-212-433-3999"
+  },
+  {
+    "osm_id": 2524934996,
+    "name": "Gari Columbus",
+    "website": "https://www.sushiofgari.com",
+    "phone": "+1-212-362-4816"
+  },
+  {
+    "osm_id": 2535746180,
+    "name": "The Tang",
+    "website": "https://www.thetangnyc.com",
+    "phone": "+1-646-596-7970"
+  },
+  {
+    "osm_id": 2535746193,
+    "name": "New Kam Lai",
+    "website": "http://www.newkamlai.com/",
+    "phone": "+1-212-749-8388"
+  },
+  {
+    "osm_id": 2535746197,
+    "name": "Tacqueria 86",
+    "website": "https://www.taqueria86.com",
+    "phone": "+1-917-675-7727"
+  },
+  {
+    "osm_id": 2535746198,
+    "name": "Calaveras Corner",
+    "website": "https://calaverascorner.com",
+    "phone": "+1-551-291-2258"
+  },
+  {
+    "osm_id": 2535746202,
+    "name": "Plum",
+    "website": "https://plumny.com/",
+    "phone": "+1-646-884-4289"
+  },
+  {
+    "osm_id": 2547036945,
+    "name": "The GRID",
+    "website": "https://greatjonesdistillingco.com/restaurant/",
+    "phone": "+1-332-910-9877"
+  },
+  {
+    "osm_id": 2547110366,
+    "name": "Dos Caminos",
+    "website": "https://www.doscaminos.com/soho/",
+    "phone": "+1-212-277-4300"
+  },
+  {
+    "osm_id": 2547114752,
+    "name": "Linen Hall",
+    "website": "https://linenhallnyc.com",
+    "phone": "+1-646-602-9316"
+  },
+  {
+    "osm_id": 2547121482,
+    "name": "Love Mama",
+    "website": "https://lovemamanyc.com",
+    "phone": "+1-212-254-5370"
+  },
+  {
+    "osm_id": 2547155245,
+    "name": "Tim Ho Wan",
+    "website": "https://timhowanusa.com",
+    "phone": "+1-212-228-2800"
+  },
+  {
+    "osm_id": 2547193376,
+    "name": "Leon's",
+    "website": "https://www.leonsnyc.com",
+    "phone": "+1-646-410-2703"
+  },
+  {
+    "osm_id": 2547205472,
+    "name": "Sauerkraut Fish",
+    "website": "https://sauerkrautfish9855.com",
+    "phone": "+1-212-388-9855"
+  },
+  {
+    "osm_id": 2547209021,
+    "name": "Pranakhon",
+    "website": "https://www.pranakhonnyc.com/",
+    "phone": "+1 212 786 6789"
+  },
+  {
+    "osm_id": 2547223602,
+    "name": "Manuela",
+    "website": "https://manuela-nyc.com",
+    "phone": "+1-917-245-2770"
+  },
+  {
+    "osm_id": 2547241666,
+    "name": "Upside Pizza",
+    "website": "https://www.upsidepizza.com/",
+    "phone": "+19174092989"
+  },
+  {
+    "osm_id": 2547242036,
+    "name": "Jack\u2019s Wife Freda",
+    "website": "https://jackswifefreda.com",
+    "phone": "+1-212-510-8550"
+  },
+  {
+    "osm_id": 2547245925,
+    "name": "Grand Street Social",
+    "website": "https://grandstreetsocial.com/",
+    "phone": "+1-917-355-2141"
+  },
+  {
+    "osm_id": 2547246978,
+    "name": "Thai Diner",
+    "website": "https://www.thaidiner.com",
+    "phone": "+1-646-559-4140"
+  },
+  {
+    "osm_id": 2547247040,
+    "name": "Piacere",
+    "website": "https://www.piacerenyc.com",
+    "phone": "+1-212-219-4080"
+  },
+  {
+    "osm_id": 2547247074,
+    "name": "Ki Mi Ka",
+    "website": "https://www.kimikanyc.com",
+    "phone": "+1-212-256-9280"
+  },
+  {
+    "osm_id": 2549896907,
+    "name": "Saint Julivert Fisherie",
+    "website": "https://www.saintjulivertbk.com",
+    "phone": "+1-347-987-3710"
+  },
+  {
+    "osm_id": 2549918862,
+    "name": "Mango Bay",
+    "website": "http://www.themangobay.com",
+    "phone": "+1-347-223-4141"
+  },
+  {
+    "osm_id": 2549952990,
+    "name": "Mamazul Mexican Grill",
+    "website": "https://www.mamazulnyc.com/",
+    "phone": "+1-212-500-6988"
+  },
+  {
+    "osm_id": 2549972137,
+    "name": "Sal Tang's",
+    "website": "https://www.saltangs.com/",
+    "phone": "+1-718-986-6976"
+  },
+  {
+    "osm_id": 2549978400,
+    "name": "Mex Carrol's Diner",
+    "website": "https://www.mexcarrollsdiner.com/",
+    "phone": "+1-718-852-1925"
+  },
+  {
+    "osm_id": 2549996761,
+    "name": "Bar B\u00eate",
+    "website": "https://www.barbete.com",
+    "phone": "+1-347-844-9950"
+  },
+  {
+    "osm_id": 2550005838,
+    "name": "IHOP",
+    "website": "https://restaurants.ihop.com/en-us/ny/brooklyn/breakfast-253-livingston-st-3503",
+    "phone": "+1-718-222-4467"
+  },
+  {
+    "osm_id": 2550011396,
+    "name": "Swoony's",
+    "website": "https://www.swoonys.com",
+    "phone": "+1-718-207-3686"
+  },
+  {
+    "osm_id": 2550012191,
+    "name": "Bar Moga",
+    "website": "https://www.barmoga.com/",
+    "phone": "+1-929-399-5853"
+  },
+  {
+    "osm_id": 2550046876,
+    "name": "Artichoke Pizza",
+    "website": "https://www.artichokepizza.com/location/artichoke-basille-pizza-greenwich-village/",
+    "phone": "+1-646-609-1011"
+  },
+  {
+    "osm_id": 2550046894,
+    "name": "Senza Gluten",
+    "website": "https://senzaglutennyc.com/",
+    "phone": "+1-212-475-7775"
+  },
+  {
+    "osm_id": 2550051106,
+    "name": "Tue Thai Food",
+    "website": "https://www.tuethainyc.com",
+    "phone": "+1-212-929-9888"
+  },
+  {
+    "osm_id": 2550054007,
+    "name": "The Boil Prime",
+    "website": "https://www.theboilny.com",
+    "phone": "+1-718-208-1102"
+  },
+  {
+    "osm_id": 2550054017,
+    "name": "Inkaico",
+    "website": "https://www.inkaicobrooklyn.com",
+    "phone": "+1-718-576-3985"
+  },
+  {
+    "osm_id": 2550054020,
+    "name": "Charm",
+    "website": "https://www.charmbarrestaurant.com/",
+    "phone": "+1-347-799-2345"
+  },
+  {
+    "osm_id": 2550059698,
+    "name": "Bandido",
+    "website": "https://bandidobk.com",
+    "phone": "+1-718-230-1703"
+  },
+  {
+    "osm_id": 2550059711,
+    "name": "Pizza Secret",
+    "website": "https://pizzasecretnyc.com",
+    "phone": "+1-929-337-6245"
+  },
+  {
+    "osm_id": 2550153208,
+    "name": "Belli Osteria",
+    "website": "https://www.bellibrooklyn.com",
+    "phone": "+1-347-799-1230"
+  },
+  {
+    "osm_id": 2550551537,
+    "name": "Marumi",
+    "website": "https://www.marumi.nyc",
+    "phone": "+1-212-979-7055"
+  },
+  {
+    "osm_id": 2550784964,
+    "name": "Bin 141",
+    "website": "https://bin141.com",
+    "phone": "+1-646-822-3628"
+  },
+  {
+    "osm_id": 2554956153,
+    "name": "Sonnyboy",
+    "website": "https://sonnyboynyc.com/",
+    "phone": "+1 949-325-5634"
+  },
+  {
+    "osm_id": 2555098016,
+    "name": "Jing Fong",
+    "website": "https://jingfongny.com/",
+    "phone": "+1-212-964-5256"
+  },
+  {
+    "osm_id": 2555099021,
+    "name": "Shoo Shoo Nolita",
+    "website": "https://shooshoonolita.com",
+    "phone": "+1-646-590-6800"
+  },
+  {
+    "osm_id": 2555123807,
+    "name": "Lena",
+    "website": "https://www.lena-nyc.com",
+    "phone": "+1 347-935-1897"
+  },
+  {
+    "osm_id": 2555128944,
+    "name": "V-Nam Cafe",
+    "website": "https://vnamcafe.com/",
+    "phone": "+1-212-780-6020"
+  },
+  {
+    "osm_id": 2562277737,
+    "name": "Chez Moi",
+    "website": "https://chezmoiny.com",
+    "phone": "+1-347-227-8337"
+  },
+  {
+    "osm_id": 2562374842,
+    "name": "Oceans",
+    "website": "https://oceansnewyork.com",
+    "phone": "+1-212-209-1055"
+  },
+  {
+    "osm_id": 2562374854,
+    "name": "Tappo",
+    "website": "https://www.nycthincrust.com/location/tappo-thin-crust/",
+    "phone": "+12128079200"
+  },
+  {
+    "osm_id": 2562444051,
+    "name": "Taureau",
+    "website": "https://taureaunyc.com",
+    "phone": "+1-212-228-2222"
+  },
+  {
+    "osm_id": 2562449527,
+    "name": "Ueki",
+    "website": "https://www.uekisushi.com/",
+    "phone": "+1-212-691-0404"
+  },
+  {
+    "osm_id": 2563607404,
+    "name": "Mint Heights",
+    "website": "https://mintheights.com",
+    "phone": "+1-347-916-0325"
+  },
+  {
+    "osm_id": 2563930242,
+    "name": "Da Mikele",
+    "website": "http://luzzosgroup.com/about-us-damikele",
+    "phone": "+1-212-925-8800"
+  },
+  {
+    "osm_id": 2563985396,
+    "name": "Funny BBQ 98",
+    "website": "https://funnybbq98ny.com/",
+    "phone": "+1-212-965-0076"
+  },
+  {
+    "osm_id": 2563986220,
+    "name": "Nickel & Diner",
+    "website": "https://www.nickelanddiner.com",
+    "phone": "+1-646-870-6100"
+  },
+  {
+    "osm_id": 2563990327,
+    "name": "Pasteur",
+    "website": "https://www.pasteurgrill.com",
+    "phone": "+1-212-608-3656"
+  },
+  {
+    "osm_id": 2564934011,
+    "name": "Bed-Stuy Fish Fry",
+    "website": "https://bedstuyfishfry.com/",
+    "phone": "+1-347-405-9820"
+  },
+  {
+    "osm_id": 2565131160,
+    "name": "Beds Thai",
+    "website": "https://orderbedsthai.com",
+    "phone": "+1-347-985-1199"
+  },
+  {
+    "osm_id": 2565140913,
+    "name": "Bati Ethiopian Kitchen",
+    "website": "https://www.batikitchen.com",
+    "phone": "+1-718-797-9696"
+  },
+  {
+    "osm_id": 2565698836,
+    "name": "Benvenuto Cafe Tribeca",
+    "website": "https://www.benvenutocafe.com/",
+    "phone": "+1-212-219-2373"
+  },
+  {
+    "osm_id": 2565708108,
+    "name": "Bubby's",
+    "website": "http://bubbys.com/tribeca/",
+    "phone": "+1 212 219 0666"
+  },
+  {
+    "osm_id": 2565708227,
+    "name": "Pepolino",
+    "website": "https://www.pepolino.com",
+    "phone": "+1 212-966-9983"
+  },
+  {
+    "osm_id": 2567528714,
+    "name": "Soda Club",
+    "website": "https://www.overthrowhospitality.com/venues/sodaclub",
+    "phone": "+1-833-328-4588"
+  },
+  {
+    "osm_id": 2567547060,
+    "name": "Serafina Ludlow",
+    "website": "https://www.serafinarestaurant.com/",
+    "phone": "+1 212-358-9800"
+  },
+  {
+    "osm_id": 2567548319,
+    "name": "Kalye",
+    "website": "https://www.kalye.com/",
+    "phone": "+1-646-287-9153"
+  },
+  {
+    "osm_id": 2567553147,
+    "name": "Spicy Village",
+    "website": "http://spicyvillage.com",
+    "phone": "+1-646-329-5665"
+  },
+  {
+    "osm_id": 2567558503,
+    "name": "Lian Jiang",
+    "website": "https://lianjiangnytogo.com/",
+    "phone": "+1-646-715-7113"
+  },
+  {
+    "osm_id": 2567573171,
+    "name": "Malatesta",
+    "website": "https://www.malatestanyc.com/",
+    "phone": "+1-212-741-1207"
+  },
+  {
+    "osm_id": 2568110406,
+    "name": "Vini e Olii",
+    "website": "https://www.locandany.com",
+    "phone": "+1-718-622-9202"
+  },
+  {
+    "osm_id": 2568207235,
+    "name": "Waza Sushi & Ramen",
+    "website": "https://wazasushi.com",
+    "phone": "+1-718-399-9292"
+  },
+  {
+    "osm_id": 2568207248,
+    "name": "Casa NoNo",
+    "website": "https://osteriabrooklyn.getbento.com/location/casa-nono/",
+    "phone": "+1-646-750-9156"
+  },
+  {
+    "osm_id": 2568240165,
+    "name": "Taste Korea 232",
+    "website": "https://www.tastekorea232.com",
+    "phone": "+1-718-623-2232"
+  },
+  {
+    "osm_id": 2568243096,
+    "name": "Mike's Coffee Shop",
+    "website": "https://www.mikesdinerbrooklyn.com/",
+    "phone": "+1-718-857-1462"
+  },
+  {
+    "osm_id": 2568275821,
+    "name": "Third Falcon",
+    "website": "https://www.third-falcon.com/",
+    "phone": "+1-929-545-1324"
+  },
+  {
+    "osm_id": 2568518924,
+    "name": "Superfine",
+    "website": "https://superfine.nyc/",
+    "phone": "+1-718-243-9005"
+  },
+  {
+    "osm_id": 2568643693,
+    "name": "Hartbreakers",
+    "website": "https://www.hartbreakersbk.com/",
+    "phone": "+1-718-326-4500"
+  },
+  {
+    "osm_id": 2569050392,
+    "name": "Da Andrea",
+    "website": "https://www.daandreanyc.com/",
+    "phone": "+1-212-367-1979"
+  },
+  {
+    "osm_id": 2569065493,
+    "name": "Wogies",
+    "website": "https://wogies.com/",
+    "phone": "+1 212-229-2171"
+  },
+  {
+    "osm_id": 2569259858,
+    "name": "Cowgirl",
+    "website": "https://cowgirlnyc.com/",
+    "phone": "+1-212-633-1133"
+  },
+  {
+    "osm_id": 2569259873,
+    "name": "Anton's",
+    "website": "https://www.antonsnyc.com/",
+    "phone": "+12129240818"
+  },
+  {
+    "osm_id": 2569266641,
+    "name": "Catch NYC",
+    "website": "https://catchrestaurants.com/catchnyc/",
+    "phone": "+1-212-392-5978"
+  },
+  {
+    "osm_id": 2569266670,
+    "name": "Valbella",
+    "website": "https://www.valbellarestaurants.com/",
+    "phone": "+1-212-645-7777"
+  },
+  {
+    "osm_id": 2572981704,
+    "name": "Deniz",
+    "website": "https://deniznyc.com/",
+    "phone": "+1-718-852-6503"
+  },
+  {
+    "osm_id": 2572981801,
+    "name": "Island Shack",
+    "website": "https://islandshackcaribbean.com",
+    "phone": "+1-347-987-4832"
+  },
+  {
+    "osm_id": 2573054489,
+    "name": "Bobby Van's Steakhouse - Park Ave",
+    "website": "https://www.bobbyvans.com/park-ave.html",
+    "phone": "+1-212-867-5490"
+  },
+  {
+    "osm_id": 2573098408,
+    "name": "Alta Calidad",
+    "website": "https://altacalidadbk.com",
+    "phone": "+1-718-622-1111"
+  },
+  {
+    "osm_id": 2583212035,
+    "name": "Ortomare Ristorante Pizzeria",
+    "website": "https://ortomare.com/",
+    "phone": "+1-212-665-2970"
+  },
+  {
+    "osm_id": 2583212038,
+    "name": "Miss Mamie's Spoonbread Too",
+    "website": "https://spoonbreadinc.com/",
+    "phone": "+1-212-865-0700"
+  },
+  {
+    "osm_id": 2592129908,
+    "name": "Han Dynasty",
+    "website": "https://www.handynasty.net/location/han-dynasty-upper-west-side/",
+    "phone": "+1-212-858-9060"
+  },
+  {
+    "osm_id": 2592129994,
+    "name": "Miriam",
+    "website": "https://uws.miriamrestaurant.com",
+    "phone": "+1-646-590-2659"
+  },
+  {
+    "osm_id": 2592130001,
+    "name": "El\u00e9a",
+    "website": "https://eleanyc.com/",
+    "phone": "+1-212-369-9800"
+  },
+  {
+    "osm_id": 2592130005,
+    "name": "Gazala's",
+    "website": "https://gazalasrestaurant.com",
+    "phone": "+1-212-787-1800"
+  },
+  {
+    "osm_id": 2610440251,
+    "name": "La Pecora Bianca",
+    "website": "https://www.lapecorabianca.com/location/theater-district/",
+    "phone": "+1-212-901-3616"
+  },
+  {
+    "osm_id": 2611490850,
+    "name": "Motorino",
+    "website": "https://www.motorinony.com/location/east-village/",
+    "phone": "+1-212-777-2644"
+  },
+  {
+    "osm_id": 2611490851,
+    "name": "S'MAC",
+    "website": "https://www.eatsmac.com",
+    "phone": "+1-212-358-7912"
+  },
+  {
+    "osm_id": 2611490853,
+    "name": "Sao Mai",
+    "website": "https://saomainyc.com/",
+    "phone": "+1-212-358-8880"
+  },
+  {
+    "osm_id": 2613888352,
+    "name": "Rosemary's",
+    "website": "https://www.rosemarysnyc.com/location/rosemarys-midtown/",
+    "phone": "+1 212-870-6137"
+  },
+  {
+    "osm_id": 2621558446,
+    "name": "Hill Country Barbecue Market",
+    "website": "https://www.hillcountry.com",
+    "phone": "+1-212-255-4544"
+  },
+  {
+    "osm_id": 2622180738,
+    "name": "Pizza a Casa - Pizza School",
+    "website": "https://pizzaschool.com/",
+    "phone": "+1-212-228-5483"
+  },
+  {
+    "osm_id": 2623550902,
+    "name": "44 & X",
+    "website": "https://44andx.com/",
+    "phone": "+1 212-977-1170"
+  },
+  {
+    "osm_id": 2623550909,
+    "name": "The Marshal",
+    "website": "https://www.the-marshal.com/",
+    "phone": "+1 212-582-6300"
+  },
+  {
+    "osm_id": 2630078319,
+    "name": "Kofoo",
+    "website": "http://www.kofoony.com/",
+    "phone": "+1 212 675 5277"
+  },
+  {
+    "osm_id": 2633282810,
+    "name": "Danny's Pizzeria",
+    "website": "https://dannyspizzeria.com/",
+    "phone": "+1-718-381-1669"
+  },
+  {
+    "osm_id": 2637741647,
+    "name": "Water & Wheat",
+    "website": "https://www.waterandwheatnyc.com/location/water-and-wheat2/",
+    "phone": "+1-646-386-7424"
+  },
+  {
+    "osm_id": 2637741648,
+    "name": "Effy's Caf\u00e9",
+    "website": "https://www.effyscafe.com",
+    "phone": "+1-212-280-6200"
+  },
+  {
+    "osm_id": 2641379134,
+    "name": "JR Sushi 2",
+    "website": "http://jrsushi.com/",
+    "phone": "+1-212-233-8338"
+  },
+  {
+    "osm_id": 2652371191,
+    "name": "V&T Pizzeria",
+    "website": "https://vtrestaurantpizzeria.com",
+    "phone": "+12126631708"
+  },
+  {
+    "osm_id": 2664302423,
+    "name": "Rucola",
+    "website": "https://rucolabrooklyn.com/",
+    "phone": "+1-718-576-3209"
+  },
+  {
+    "osm_id": 2665781276,
+    "name": "Petite Crevette",
+    "website": "https://petite-crevette.com/",
+    "phone": "+1-718-855-2632"
+  },
+  {
+    "osm_id": 2676085867,
+    "name": "Pio Pio",
+    "website": "https://www.piopio.com/locations/upper_east_side.html",
+    "phone": "+1 212-426-5800"
+  },
+  {
+    "osm_id": 2678466842,
+    "name": "Bubba Gump Shrimp Company",
+    "website": "https://www.bubbagump.com/locations/new-york-city/",
+    "phone": "+1-212-391-7100"
+  },
+  {
+    "osm_id": 2678783476,
+    "name": "Applebee's",
+    "website": "https://restaurants.applebees.com/en-us/ny/new-york/205-w-50th-street-98001",
+    "phone": "+1 212-262-2400"
+  },
+  {
+    "osm_id": 2698702585,
+    "name": "The Flame",
+    "website": "https://www.theflamediner.com/",
+    "phone": "+1 212-765-7962"
+  },
+  {
+    "osm_id": 2702857187,
+    "name": "Jet's Pizza",
+    "website": "https://www.jetspizza.com",
+    "phone": "+1-332-209-5387"
+  },
+  {
+    "osm_id": 2703043873,
+    "name": "Oiji Mi",
+    "website": "https://www.oijimi.com",
+    "phone": "+1-212-256-1259"
+  },
+  {
+    "osm_id": 2703083220,
+    "name": "Malibu Diner",
+    "website": "https://malibudinernyc.nyc/",
+    "phone": "+1 212-691-1369"
+  },
+  {
+    "osm_id": 2703169719,
+    "name": "Grand Sichuan",
+    "website": "http://www.grand-sichuan.com",
+    "phone": "+1 212-620-5200"
+  },
+  {
+    "osm_id": 2703449252,
+    "name": "Pennsylvania 6",
+    "website": "https://pennsylvania6nyc.com",
+    "phone": "+1-212-727-3666"
+  },
+  {
+    "osm_id": 2703449326,
+    "name": "Sendo",
+    "website": "https://sendo.nyc/",
+    "phone": "+1-646-943-4548"
+  },
+  {
+    "osm_id": 2704034237,
+    "name": "Casa Mono",
+    "website": "https://casamononyc.com",
+    "phone": "+1-212-253-2773"
+  },
+  {
+    "osm_id": 2704042931,
+    "name": "Manhattan Indian Flavor",
+    "website": "https://manhattanindianflavor.com",
+    "phone": "+1-917-472-7593"
+  },
+  {
+    "osm_id": 2704042962,
+    "name": "L'Angeletto",
+    "website": "https://langeletto.com",
+    "phone": "+1-212-253-9600"
+  },
+  {
+    "osm_id": 2704081049,
+    "name": "Rolf's",
+    "website": "https://rolfsnyc.com",
+    "phone": "+1-212-477-4750"
+  },
+  {
+    "osm_id": 2704114395,
+    "name": "Sahara's",
+    "website": "https://www.saharamanhattan.com",
+    "phone": "+1-212-532-7589"
+  },
+  {
+    "osm_id": 2704131516,
+    "name": "Street Taco",
+    "website": "https://www.streettacony.com",
+    "phone": "+1-646-791-5413"
+  },
+  {
+    "osm_id": 2705025715,
+    "name": "Song\u2019 E Napule",
+    "website": "https://songenapule.us/",
+    "phone": "+1-212-533-1242"
+  },
+  {
+    "osm_id": 2705031347,
+    "name": "Mee Noodle Shop",
+    "website": "https://www.meenoodle795.com/",
+    "phone": "+1-212-765-2929"
+  },
+  {
+    "osm_id": 2705031348,
+    "name": "Norma",
+    "website": "https://www.normarestaurant.com/",
+    "phone": "+1-212-246-6000"
+  },
+  {
+    "osm_id": 2706005871,
+    "name": "Morton's The Steakhouse",
+    "website": "https://www.mortons.com/location/mortons-the-steakhouse-new-york-ny-world-trade-center/",
+    "phone": "+1-212-608-0171"
+  },
+  {
+    "osm_id": 2706005872,
+    "name": "Bill's Bar and Burger",
+    "website": "https://www.billsbarandburger.com/location/bills-bar-and-burger-downtown-nyc/",
+    "phone": "+1-212-894-3800"
+  },
+  {
+    "osm_id": 2708133494,
+    "name": "Astro Restaurant",
+    "website": "https://astrorestaurant.com",
+    "phone": "+1 212-489-6284"
+  },
+  {
+    "osm_id": 2708164827,
+    "name": "La Esquina",
+    "website": "https://www.esquinanyc.com/location/la-esquina-nyc-midtown/",
+    "phone": "+1-646-613-7100"
+  },
+  {
+    "osm_id": 2709306713,
+    "name": "BCD Tofu House",
+    "website": "https://www.bcdtofuhouse.com",
+    "phone": "+1 212-967-1900"
+  },
+  {
+    "osm_id": 2709335829,
+    "name": "Vezzo",
+    "website": "https://www.nycthincrust.com/location/vezzo-thin-crust/",
+    "phone": "+1-212-839-8300"
+  },
+  {
+    "osm_id": 2709347075,
+    "name": "Medium Rare",
+    "website": "https://www.mediumrarerestaurant.com/nyc",
+    "phone": "+1-212-257-7205"
+  },
+  {
+    "osm_id": 2709629959,
+    "name": "Snack EOS",
+    "website": "http://www.snackeos.com/",
+    "phone": "+1-646-964-4964"
+  },
+  {
+    "osm_id": 2709702235,
+    "name": "Mexicue",
+    "website": "https://www.mexicue.com/location/times-square",
+    "phone": "+1 212-302-0385"
+  },
+  {
+    "osm_id": 2709860719,
+    "name": "M\u00e9m\u00e9 Mediterranean",
+    "website": "http://mememediterranean.com",
+    "phone": "+1 917-262-0827"
+  },
+  {
+    "osm_id": 2709878727,
+    "name": "Mr Bigg's Bar & Grill",
+    "website": "http://www.mrbiggsbargrill.com",
+    "phone": "+1 212-246-2030"
+  },
+  {
+    "osm_id": 2709892566,
+    "name": "Senza Gluten by Jemiko",
+    "website": "https://senzaglutenbyjemiko.com/",
+    "phone": "+1-212-933-4845 ; +1-212-475-7771"
+  },
+  {
+    "osm_id": 2709897877,
+    "name": "Kochi",
+    "website": "https://kochinyc.com",
+    "phone": "+1-646-478-7308"
+  },
+  {
+    "osm_id": 2709967734,
+    "name": "The Meatball Shop",
+    "website": "https://www.themeatballshop.com/location/the-meatball-shop-hells-kitchen/",
+    "phone": "+1-212-230-5860"
+  },
+  {
+    "osm_id": 2710031782,
+    "name": "Churrascaria Plataforma",
+    "website": "https://plataformaonline.com",
+    "phone": "+1 212-245-0505"
+  },
+  {
+    "osm_id": 2710031799,
+    "name": "Times Square Diner & Grill",
+    "website": "https://ordertimessquarediner.com/",
+    "phone": "+1 212-315-2400"
+  },
+  {
+    "osm_id": 2710091465,
+    "name": "Harry Cipriani",
+    "website": "https://www.cipriani.com/",
+    "phone": "+12127535566"
+  },
+  {
+    "osm_id": 2710917577,
+    "name": "Mad Dog & Beans Mexican Cantina",
+    "website": "https://www.maddogandbeans.com",
+    "phone": "+1-646-998-5722"
+  },
+  {
+    "osm_id": 2711174997,
+    "name": "Yezo Isankaya",
+    "website": "https://www.yezonyc.com/",
+    "phone": "+1-646-398-8656"
+  },
+  {
+    "osm_id": 2711393442,
+    "name": "Tensai Udon House",
+    "website": "https://www.tensainyc.com/",
+    "phone": "+1-212-466-6591"
+  },
+  {
+    "osm_id": 2711639380,
+    "name": "Zara Terrace",
+    "website": "https://www.zaraterrace.com/",
+    "phone": "+1-917-817-0746"
+  },
+  {
+    "osm_id": 2711639392,
+    "name": "Angeletto",
+    "website": "https://angeletto.com/",
+    "phone": "+1 212-235-1227"
+  },
+  {
+    "osm_id": 2711692856,
+    "name": "Yakiniku TORAJI",
+    "website": "https://torajiny.com/",
+    "phone": "+1 929-417-2629"
+  },
+  {
+    "osm_id": 2714216773,
+    "name": "La Chula",
+    "website": "https://www.lachulanyc.com/",
+    "phone": "+1-646-590-3975"
+  },
+  {
+    "osm_id": 2714704321,
+    "name": "Take Care",
+    "website": "https://www.takecare.nyc",
+    "phone": "+1-646-349-0990"
+  },
+  {
+    "osm_id": 2714704324,
+    "name": "Tam Sang",
+    "website": "https://www.tamsang-nyc.com/midtown/",
+    "phone": "+1 212-226-5149"
+  },
+  {
+    "osm_id": 2714855295,
+    "name": "Serafina Italian Restaurant",
+    "website": "https://www.serafinarestaurant.com/location/serafina-madison-38th/",
+    "phone": "+1-646-779-7667"
+  },
+  {
+    "osm_id": 2714986490,
+    "name": "Yakitori Torishin",
+    "website": "https://torishinny.com",
+    "phone": "+1 212-757-0108"
+  },
+  {
+    "osm_id": 2714986493,
+    "name": "Alfie's",
+    "website": "https://www.alfiesnyc.com/",
+    "phone": "+1-212-757-2390"
+  },
+  {
+    "osm_id": 2716231115,
+    "name": "Dallas BBQ",
+    "website": "https://www.dallasbbq.com/times-square",
+    "phone": "+1-212-221-9000"
+  },
+  {
+    "osm_id": 2717223248,
+    "name": "Pronto Pasta & More",
+    "website": "https://www.prontopastanyc.com",
+    "phone": "+1-646-338-3314"
+  },
+  {
+    "osm_id": 2717223348,
+    "name": "Margaritaville",
+    "website": "https://www.margaritavilletimessquare.com",
+    "phone": "+1-332-264-9681"
+  },
+  {
+    "osm_id": 2717293824,
+    "name": "Carmine's",
+    "website": "https://www.carminesnyc.com/locations/times-square",
+    "phone": "+1-212-221-3800"
+  },
+  {
+    "osm_id": 2717293865,
+    "name": "Frankie and Johnie's Steakhouse",
+    "website": "https://frankieandjohnnies.com/",
+    "phone": "+1 212-997-9494"
+  },
+  {
+    "osm_id": 2717293878,
+    "name": "Gui Steakhouse",
+    "website": "https://guinyc.com/",
+    "phone": "+16463295929"
+  },
+  {
+    "osm_id": 2717543271,
+    "name": "Fogo de Ch\u00e3o",
+    "website": "https://fogodechao.com/location/new-york/",
+    "phone": "+1 212 969 9980"
+  },
+  {
+    "osm_id": 2717862940,
+    "name": "Ritz Diner",
+    "website": "https://ritzdinerny.com/",
+    "phone": "+1 212-319-4993"
+  },
+  {
+    "osm_id": 2718042362,
+    "name": "Il Postino",
+    "website": "https://ilpostinonyc.com/",
+    "phone": "+1-212-688-0033"
+  },
+  {
+    "osm_id": 2721574118,
+    "name": "An'nam",
+    "website": "https://www.annamnyc.com/",
+    "phone": "+1-212-247-6042"
+  },
+  {
+    "osm_id": 2722711709,
+    "name": "Emmett's",
+    "website": "https://www.emmettsnyc.com/",
+    "phone": "+1 917 639 3571"
+  },
+  {
+    "osm_id": 2722711716,
+    "name": "Raku Soho",
+    "website": "https://rakunyc.com/",
+    "phone": "+1 212-228-1324"
+  },
+  {
+    "osm_id": 2722857837,
+    "name": "Trattoria Trecolori",
+    "website": "https://www.trattoriatrecolori.com/",
+    "phone": "+1-212-997-4540"
+  },
+  {
+    "osm_id": 2723493279,
+    "name": "Two Boots Pizza",
+    "website": "https://twoboots.com",
+    "phone": "+1 646-837-6015"
+  },
+  {
+    "osm_id": 2723661031,
+    "name": "Daniel",
+    "website": "http://www.danielnyc.com/",
+    "phone": "+1-212-288-0033"
+  },
+  {
+    "osm_id": 2723664157,
+    "name": "LENOXTHAI",
+    "website": "https://www.lenoxthai.com",
+    "phone": "+1-212-466-6189"
+  },
+  {
+    "osm_id": 2723749690,
+    "name": "Donna Margherita",
+    "website": "https://www.donnamargheritany.com/",
+    "phone": "+1-212-772-1169"
+  },
+  {
+    "osm_id": 2723749703,
+    "name": "Patsy's Pizzeria",
+    "website": "https://patsyspizzerianyc.com/",
+    "phone": "+1 212-639-1000"
+  },
+  {
+    "osm_id": 2723785759,
+    "name": "THEP",
+    "website": "https://thepnewyork.com/",
+    "phone": "+1 212-899-9995"
+  },
+  {
+    "osm_id": 2723789296,
+    "name": "A La Turka Restaurant",
+    "website": "https://www.alaturkany.com",
+    "phone": "+1 212-744-2424"
+  },
+  {
+    "osm_id": 2723825029,
+    "name": "Tang's Garden",
+    "website": "https://www.tangtangnyc.com/",
+    "phone": "+1 212-249-2102"
+  },
+  {
+    "osm_id": 2723972058,
+    "name": "Hunan Delight Matsuya",
+    "website": "https://www.hunandelightmatsuyanyc.com/",
+    "phone": "+1-212-628-8161"
+  },
+  {
+    "osm_id": 2723975578,
+    "name": "Ikyu Sushi",
+    "website": "https://www.ikyuny.com/",
+    "phone": "+1 212-899-3549"
+  },
+  {
+    "osm_id": 2723975579,
+    "name": "Spice",
+    "website": "https://www.spicethaiusa.com/",
+    "phone": "+1 212-744-6374"
+  },
+  {
+    "osm_id": 2724054779,
+    "name": "Flex Mussels",
+    "website": "https://flexmussels.com",
+    "phone": "+1 212-717-7772"
+  },
+  {
+    "osm_id": 2724057626,
+    "name": "Sushi Ren",
+    "website": "https://www.ren82.com",
+    "phone": "+1 212-710-8888"
+  },
+  {
+    "osm_id": 2724082968,
+    "name": "Gracie's Diner",
+    "website": "https://www.gracieson2nd.com",
+    "phone": "+1 212-879-9425"
+  },
+  {
+    "osm_id": 2724095355,
+    "name": "Mimi's Pizza",
+    "website": "https://www.ordermimispizza.com",
+    "phone": "+1 212-249-8111"
+  },
+  {
+    "osm_id": 2724113139,
+    "name": "Catch n' Chop",
+    "website": "https://catchnchop.com/",
+    "phone": "+1 646-707-0103"
+  },
+  {
+    "osm_id": 2724189347,
+    "name": "Amber",
+    "website": "https://www.ambernewyork.com/",
+    "phone": "+1 212-249-5020"
+  },
+  {
+    "osm_id": 2724212862,
+    "name": "Lexington Candy Shop",
+    "website": "https://www.lexingtoncandyshop.com/",
+    "phone": "+1 212-288-0057"
+  },
+  {
+    "osm_id": 2724232183,
+    "name": "fresh&co",
+    "website": "https://freshandco.com",
+    "phone": "+1 212-953-7374"
+  },
+  {
+    "osm_id": 2725606562,
+    "name": "Lonnies",
+    "website": "https://www.lonniesnyc.com/",
+    "phone": "+1-347-529-4130"
+  },
+  {
+    "osm_id": 2727176211,
+    "name": "Park Caf\u00e9",
+    "website": "https://www.wellingtonhotel.com/dining/",
+    "phone": "+1 212-315-4567"
+  },
+  {
+    "osm_id": 2727176217,
+    "name": "Redeye Grill",
+    "website": "https://www.redeyegrill.com/",
+    "phone": "+1-212-541-9000"
+  },
+  {
+    "osm_id": 2744832045,
+    "name": "The Greek Kitchen",
+    "website": "https://greekkitchennyc.com/",
+    "phone": "+1-212-581-2403"
+  },
+  {
+    "osm_id": 2744875804,
+    "name": "Atlantic Grill",
+    "website": "https://www.atlanticgrill.com/",
+    "phone": "+1 212-787-4663"
+  },
+  {
+    "osm_id": 2745010771,
+    "name": "Bondi Sushi",
+    "website": "https://bondisushi.com/",
+    "phone": "+1-646-629-4187"
+  },
+  {
+    "osm_id": 2745038464,
+    "name": "Cafe Luxembourg",
+    "website": "https://cafeluxembourg.com/",
+    "phone": "+1-212-873-7411"
+  },
+  {
+    "osm_id": 2745119745,
+    "name": "Felice Columbus",
+    "website": "https://www.felicenyc.com/",
+    "phone": "+1-212-931-1150"
+  },
+  {
+    "osm_id": 2745359378,
+    "name": "Simply Noodles",
+    "website": "https://www.simplynoodlesnyc.com",
+    "phone": "+1-212-721-1000"
+  },
+  {
+    "osm_id": 2745370256,
+    "name": "Salumeria Rosi",
+    "website": "https://www.salumeriarosinyc.com",
+    "phone": "+1-212-877-4800"
+  },
+  {
+    "osm_id": 2745543217,
+    "name": "Swagat",
+    "website": "https://www.swagatny.com/",
+    "phone": "+1-212-362-1400"
+  },
+  {
+    "osm_id": 2745558099,
+    "name": "Uno Pizzeria & Grill",
+    "website": "https://restaurants.unos.com/locations/New-York/NY/0350",
+    "phone": "+1-212-595-4700"
+  },
+  {
+    "osm_id": 2745602443,
+    "name": "La Sir\u00e8ne",
+    "website": "https://lasirenenyc.com/",
+    "phone": "+1-917-261-5279"
+  },
+  {
+    "osm_id": 2758255864,
+    "name": "Bodega 88",
+    "website": "https://bodega88nyc.com",
+    "phone": "+1-212-799-1602"
+  },
+  {
+    "osm_id": 2759055223,
+    "name": "Bodrum",
+    "website": "https://bodrumnyc.com",
+    "phone": "+1-212-799-2806"
+  },
+  {
+    "osm_id": 2759055296,
+    "name": "Yavsouvlaki",
+    "website": "https://yasouvlakinyc.com/",
+    "phone": "+1-929-512-4252"
+  },
+  {
+    "osm_id": 2759055318,
+    "name": "Dragon 89",
+    "website": "https://www.dragon89ny.com",
+    "phone": "+1-212-222-6511"
+  },
+  {
+    "osm_id": 2759055341,
+    "name": "Chick Chick",
+    "website": "https://www.chickchicknyc.com",
+    "phone": "+1-212-799-1026"
+  },
+  {
+    "osm_id": 2759235699,
+    "name": "Holy Schnitzel",
+    "website": "https://holyschnitzel.com/",
+    "phone": "+1-212-362-4659"
+  },
+  {
+    "osm_id": 2759235843,
+    "name": "Shawarma Shabazi",
+    "website": "https://shabazinyc.com",
+    "phone": "+1-212-204-7000"
+  },
+  {
+    "osm_id": 2759308655,
+    "name": "Rancho Tequileria",
+    "website": "https://www.acquanyc.com/",
+    "phone": "+1-212-222-2752"
+  },
+  {
+    "osm_id": 2759522536,
+    "name": "Baazi",
+    "website": "https://baazi.us/",
+    "phone": "+1-646-861-3604"
+  },
+  {
+    "osm_id": 2761464888,
+    "name": "Flor De Mayo",
+    "website": "https://www.flordemayo.com",
+    "phone": "+1-212-663-5520"
+  },
+  {
+    "osm_id": 2761520411,
+    "name": "Ollie's",
+    "website": "https://ollieseats.com/ollies-noodle-shop-grille",
+    "phone": "+1-212-932-3300"
+  },
+  {
+    "osm_id": 2761533833,
+    "name": "Caf\u00e9 du Soleil",
+    "website": "https://www.cafedusoleilny.com",
+    "phone": "+1-212-316-5000"
+  },
+  {
+    "osm_id": 2761593514,
+    "name": "Saiguette",
+    "website": "https://www.saiguette.com/",
+    "phone": "+1-212-866-8886"
+  },
+  {
+    "osm_id": 2761663411,
+    "name": "Mizu Hibachi",
+    "website": "https://www.mizu940.com",
+    "phone": "+1-917-675-6338"
+  },
+  {
+    "osm_id": 2761671640,
+    "name": "Amity Hall Uptown",
+    "website": "https://amityhalluptown.com/",
+    "phone": "+1 646 930 2501"
+  },
+  {
+    "osm_id": 2761677767,
+    "name": "Roti Roll (Bombay Frankie)",
+    "website": "https://rotirollny.com/",
+    "phone": "+12126661500"
+  },
+  {
+    "osm_id": 2761809232,
+    "name": "La Isla Restaurant",
+    "website": "https://laislarestaurant104.com",
+    "phone": "+1 212-534-0002"
+  },
+  {
+    "osm_id": 2762442267,
+    "name": "Safari",
+    "website": "https://safariharlem.com",
+    "phone": "+1 646 964 4252"
+  }
+]

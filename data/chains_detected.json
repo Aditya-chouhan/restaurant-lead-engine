@@ -1,0 +1,96 @@
+{
+  "total_restaurants_scanned": 400,
+  "chains_detected": 5,
+  "chains": [
+    {
+      "chain_base_name": "5 napkin burger",
+      "location_count": 2,
+      "locations": [
+        {
+          "osm_id": 1821015975,
+          "name": "5 Napkin Burger",
+          "website": "https://www.5napkinburger.com/location/upper-west-side-5napkinburger/",
+          "phone": "+1-212-333-4488"
+        },
+        {
+          "osm_id": 1873813860,
+          "name": "5 Napkin Burger",
+          "website": "https://www.5napkinburger.com/location/hell-s-kitchen-5napkinburger/",
+          "phone": "+1-212-757-2277"
+        }
+      ]
+    },
+    {
+      "chain_base_name": "pio pio",
+      "location_count": 2,
+      "locations": [
+        {
+          "osm_id": 2125873488,
+          "name": "Pio Pio",
+          "website": "https://www.piopio.com/locations/upper_west_side.html",
+          "phone": "+1 212 665-3000"
+        },
+        {
+          "osm_id": 2676085867,
+          "name": "Pio Pio",
+          "website": "https://www.piopio.com/locations/upper_east_side.html",
+          "phone": "+1 212-426-5800"
+        }
+      ]
+    },
+    {
+      "chain_base_name": "ihop",
+      "location_count": 2,
+      "locations": [
+        {
+          "osm_id": 2279542456,
+          "name": "IHOP",
+          "website": "https://restaurants.ihop.com/en-us/ny/new-york/breakfast-235-e-14th-st-237-3357",
+          "phone": "+1 212-388-1499"
+        },
+        {
+          "osm_id": 2550005838,
+          "name": "IHOP",
+          "website": "https://restaurants.ihop.com/en-us/ny/brooklyn/breakfast-253-livingston-st-3503",
+          "phone": "+1-718-222-4467"
+        }
+      ]
+    },
+    {
+      "chain_base_name": "carmine s",
+      "location_count": 2,
+      "locations": [
+        {
+          "osm_id": 2312065724,
+          "name": "Carmine's",
+          "website": "https://www.carminesnyc.com/locations/upper-west-side",
+          "phone": "+12123622200"
+        },
+        {
+          "osm_id": 2717293824,
+          "name": "Carmine's",
+          "website": "https://www.carminesnyc.com/locations/times-square",
+          "phone": "+1-212-221-3800"
+        }
+      ]
+    },
+    {
+      "chain_base_name": "dallas bbq",
+      "location_count": 2,
+      "locations": [
+        {
+          "osm_id": 2408375729,
+          "name": "Dallas BBQ",
+          "website": "https://www.dallasbbq.com/chelsea",
+          "phone": "+1-212-462-0001"
+        },
+        {
+          "osm_id": 2716231115,
+          "name": "Dallas BBQ",
+          "website": "https://www.dallasbbq.com/times-square",
+          "phone": "+1-212-221-9000"
+        }
+      ]
+    }
+  ]
+}

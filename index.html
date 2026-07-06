@@ -101,6 +101,8 @@
       <span class="stage-pill"><b>2. fingerprint</b> — fetch real homepages, detect stack</span>
       <span class="stage-pill"><b>3. score</b> — disclosed Maple-fit weights</span>
       <span class="stage-pill"><b>4. brief</b> — rep pre-call brief, evidence-cited</span>
+      <span class="stage-pill"><b>5. dedupe</b> — collapse real chains to 1 account</span>
+      <span class="stage-pill"><b>6. dashboard</b> — a page an AE actually opens</span>
     </div>
 
     <div class="detail-card">
@@ -181,6 +183,26 @@ Detected stack:
 Talking point: High call-dependency, no direct ordering channel
 of their own — the exact profile of a restaurant losing orders
 to missed calls during peak hours.</pre>
+    </div>
+    <div class="detail-card">
+      <span class="path">stage 5 — dedupe: real multi-location chains, not a hypothetical</span>
+      <p class="query-label">A separate, wider citywide Overpass query (400 restaurants) — the 80-restaurant demo sample was too small to reliably surface chains, so this stage documents and runs a bigger one on purpose</p>
+      <table class="result-table">
+        <tr><th>chain</th><th>locations</th><th>evidence</th></tr>
+        <tr><td>5 Napkin Burger</td><td class="num">2</td><td>Upper West Side vs. Hell's Kitchen — different phone, different location-specific URL</td></tr>
+        <tr><td>Pio Pio</td><td class="num">2</td><td>Upper West Side vs. Upper East Side</td></tr>
+        <tr><td>IHOP</td><td class="num">2</td><td>Manhattan vs. Brooklyn</td></tr>
+        <tr><td>Carmine's</td><td class="num">2</td><td>Upper West Side vs. Times Square</td></tr>
+        <tr><td>Dallas BBQ</td><td class="num">2</td><td>Chelsea vs. Times Square</td></tr>
+      </table>
+      <p class="finding">Without this stage, a sales team sourcing from raw map data would call two separate "leads" that are actually one HQ decision-maker — a real, disclosed data-hygiene problem, not a hypothetical one, found by widening the query and checking rather than assumed. The matching heuristic (normalized base-name collision) is disclosed as imprecise in <code>dedupe_chains.py</code>: it will both over-merge coincidental name collisions and under-merge chains with inconsistent naming — the actual tradeoff real GTM data hygiene runs into, not hidden behind a clean demo number.</p>
+    </div>
+
+    <div class="detail-card">
+      <span class="path">stage 6 — dashboard: the rep tooling layer, not just a script</span>
+      <p class="query-label"><code>build_dashboard.py</code> generates <code>rep_dashboard.html</code> — one self-contained file, sortable by score, searchable by name, click a row to expand its full brief</p>
+      <p>Every earlier stage in this pipeline produces a file a GTM engineer can read — JSON, markdown. None of them are something an AE would actually open between calls. This closes that gap directly: no server, no build step, no framework — an AE double-clicks one HTML file and gets a working, sortable lead list with pre-call context inline. That's the literal ask in a GTM Engineer job description that names "a rep tooling layer that makes an AE genuinely faster" as a first-class responsibility, not an afterthought.</p>
+      <p><a href="rep_dashboard.html" target="_blank" rel="noopener">Open the live rep dashboard →</a></p>
     </div>
   </section>
 

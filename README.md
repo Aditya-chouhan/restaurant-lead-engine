@@ -26,6 +26,8 @@ python3 harvest.py
 python3 fingerprint.py
 python3 score_leads.py
 python3 brief_top_leads.py
+python3 dedupe_chains.py
+python3 build_dashboard.py
 ```
 
 No API keys, no dependencies beyond the Python standard library.
@@ -41,6 +43,16 @@ No API keys, no dependencies beyond the Python standard library.
   as a Maple-style voice-AI account.
 - `brief_top_leads.py` — composes a rep pre-call brief for the top 3 scored
   leads, using only detected facts, each with its evidence.
+- `dedupe_chains.py` — a separate, wider citywide query (documented reason
+  in the file: chain detection needs more data than the 80-restaurant demo
+  sample) that detects real multi-location chains so they collapse into one
+  account instead of N unrelated leads. Found 5 real chains in a
+  400-restaurant citywide sample: 5 Napkin Burger, Pio Pio, IHOP, Carmine's,
+  Dallas BBQ — each a genuinely distinct location (different phone,
+  different address-specific website URL), not a data artifact.
+- `build_dashboard.py` — generates `rep_dashboard.html`, a single
+  self-contained, sortable/searchable static page an AE would actually
+  open, instead of reading JSON or markdown files directly.
 - `data/` — the real captured output of each stage.
 
 ## The precision lesson, found twice while building this

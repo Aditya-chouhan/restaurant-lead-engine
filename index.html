@@ -1,0 +1,232 @@
+<title>Restaurant Lead Engine — a GTM lead-sourcing pipeline, real data</title>
+<style>
+  :root {
+    --paper: #ECEEEB;
+    --paper-raised: #F5F6F3;
+    --ink: #191D1B;
+    --ink-soft: #4B524D;
+    --ink-faint: #7B8179;
+    --line: #D6D3C8;
+    --accent: #A8641F;
+    --accent-soft: #EADFCB;
+    --flag: #9C3A2A;
+    --flag-soft: #F1E1DC;
+    --verified: #35603F;
+    --verified-soft: #DEE7DE;
+    --font-display: ui-serif, "Iowan Old Style", "Palatino Linotype", "URW Palladio", Georgia, serif;
+    --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --font-mono: ui-monospace, "SF Mono", "Cascadia Code", "Roboto Mono", Consolas, monospace;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--font-body); font-size: 16px; line-height: 1.6; -webkit-font-smoothing: antialiased; }
+  a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 2px; }
+  a:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+  .wrap { max-width: 780px; margin: 0 auto; padding: 0 24px 96px; }
+  header.hero { background: var(--paper-raised); border-bottom: 1px solid var(--line); padding: 56px 24px 40px; margin-bottom: 56px; }
+  .hero-inner { max-width: 780px; margin: 0 auto; }
+  .eyebrow { display: flex; align-items: center; gap: 10px; font-family: var(--font-mono); font-size: 12.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent); margin-bottom: 20px; }
+  .eyebrow::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: var(--accent); flex-shrink: 0; }
+  h1 { font-family: var(--font-display); font-weight: 500; font-size: clamp(28px, 4.4vw, 40px); line-height: 1.18; letter-spacing: -0.01em; margin: 0 0 18px; text-wrap: balance; color: var(--ink); }
+  .dek { font-size: 17.5px; color: var(--ink-soft); max-width: 62ch; margin: 0; }
+  .repo-chip { display: inline-flex; align-items: baseline; gap: 8px; margin-top: 24px; font-family: var(--font-mono); font-size: 14px; background: var(--paper); border: 1px solid var(--line); border-radius: 6px; padding: 7px 12px; }
+  .repo-chip span { color: var(--ink-faint); }
+  section { margin-bottom: 52px; }
+  h2 { font-family: var(--font-display); font-weight: 500; font-size: 22px; letter-spacing: -0.005em; margin: 0 0 8px; text-wrap: balance; }
+  .section-note { font-size: 13.5px; color: var(--ink-faint); margin: 0 0 20px; }
+  p { max-width: 68ch; color: var(--ink-soft); margin: 0 0 16px; }
+  p:last-child { margin-bottom: 0; }
+  p a { color: var(--accent); }
+  ul.plain { max-width: 68ch; color: var(--ink-soft); padding-left: 20px; margin: 0 0 16px; }
+  ul.plain li { margin-bottom: 6px; }
+  .caveat { display: flex; gap: 12px; align-items: flex-start; background: var(--flag-soft); border: 1px solid #E3BEB2; border-radius: 10px; padding: 16px 20px; margin: 0 0 32px; }
+  .caveat b { color: var(--flag); font-family: var(--font-mono); font-size: 12px; letter-spacing: 0.04em; text-transform: uppercase; flex-shrink: 0; white-space: nowrap; padding-top: 2px; }
+  .caveat p { margin: 0; color: var(--ink); font-size: 14.5px; max-width: none; }
+  .schema-table { width: 100%; border-collapse: collapse; font-family: var(--font-mono); font-size: 13px; background: var(--paper-raised); border: 1px solid var(--line); border-radius: 8px; overflow: hidden; margin-bottom: 8px; }
+  .schema-table th, .schema-table td { text-align: left; padding: 8px 14px; border-bottom: 1px solid var(--line); }
+  .schema-table th { background: var(--paper); color: var(--ink-faint); font-weight: 600; text-transform: uppercase; font-size: 11px; letter-spacing: 0.04em; }
+  .schema-table tr:last-child td { border-bottom: none; }
+  .detail-card { background: var(--paper-raised); border: 1px solid var(--line); border-radius: 10px; padding: 24px 26px; margin-bottom: 20px; }
+  .detail-card .path { font-family: var(--font-mono); font-size: 13.5px; color: var(--verified); background: var(--verified-soft); display: inline-block; padding: 3px 8px; border-radius: 5px; margin-bottom: 14px; }
+  .query-label { font-family: var(--font-mono); font-size: 13px; color: var(--ink); font-weight: 600; margin: 0 0 10px; }
+  pre { background: #14181A; color: #E4E7E2; border-radius: 10px; padding: 18px 20px; overflow-x: auto; font-family: var(--font-mono); font-size: 12.8px; line-height: 1.6; margin: 0 0 14px; }
+  .result-table { width: 100%; border-collapse: collapse; font-family: var(--font-mono); font-size: 12.8px; }
+  .result-table th, .result-table td { text-align: left; padding: 6px 12px; border-bottom: 1px solid var(--line); }
+  .result-table th { color: var(--ink-faint); font-weight: 600; text-transform: uppercase; font-size: 10.5px; letter-spacing: 0.04em; }
+  .result-table tr:last-child td { border-bottom: none; }
+  .result-table td.num { text-align: right; }
+  .finding { font-size: 13.5px; color: var(--ink-soft); margin: 12px 0 0; padding-top: 12px; border-top: 1px dashed var(--line); }
+  .stage-flow { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 24px; }
+  .stage-pill { font-family: var(--font-mono); font-size: 12.5px; background: var(--paper); border: 1px solid var(--line); border-radius: 20px; padding: 6px 14px; color: var(--ink-soft); }
+  .stage-pill b { color: var(--accent); }
+  .cta { background: var(--paper-raised); border: 1px solid var(--line); border-radius: 12px; padding: 36px 32px; text-align: left; }
+  .cta h2 { margin-bottom: 12px; }
+  .cta p { max-width: 60ch; }
+  .cta-row { display: flex; flex-wrap: wrap; align-items: center; gap: 16px; margin-top: 22px; }
+  .btn { display: inline-block; background: var(--ink); color: var(--paper); font-family: var(--font-body); font-weight: 600; font-size: 14.5px; padding: 11px 20px; border-radius: 7px; text-decoration: none; border: none; cursor: pointer; }
+  .btn:hover { background: var(--accent); }
+  .email-line { font-family: var(--font-mono); font-size: 15px; margin-top: 4px; }
+  .email-line a { color: var(--ink); font-weight: 600; }
+  footer { margin-top: 64px; padding-top: 24px; border-top: 1px solid var(--line); font-size: 13px; color: var(--ink-faint); display: flex; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
+  footer a { color: var(--ink-faint); }
+  @media (max-width: 560px) { header.hero { padding: 40px 20px 32px; } .detail-card, .cta { padding: 22px 20px; } .schema-table, .result-table { font-size: 11.5px; } }
+</style>
+
+<header class="hero">
+  <div class="hero-inner">
+    <div class="eyebrow">Live demo · real restaurants, real websites, no API keys</div>
+    <h1>A lead-sourcing pipeline for a voice-AI-for-restaurants GTM team</h1>
+    <p class="dek">Harvest real restaurants, fingerprint their real websites for the ordering/reservation/delivery/voice-AI stack they already run, score them for fit, and generate rep-ready pre-call briefs — end to end, on public data. Built around the exact top-of-funnel problem a company like Maple (voice AI for restaurants) names in its own GTM Engineer job posting.</p>
+    <div class="repo-chip"><strong>restaurant-lead-engine</strong><span>— stdlib Python, 4 stages, no keys required</span></div>
+  </div>
+</header>
+
+<div class="wrap">
+
+  <div class="caveat">
+    <b>Scale note</b>
+    <p>80 restaurants from one Manhattan bounding box, homepage-only fingerprinting. This demonstrates pipeline architecture and detection discipline — not a production-scale account universe. Google Places/Yelp enrichment (review counts, hours, categories) is the obvious next upgrade; it needs a billed API key and isn't included here.</p>
+  </div>
+
+  <section>
+    <h2>The GTM problem underneath the engineering problem</h2>
+    <p>A voice-AI phone agent for restaurants sells against a specific, quantified pain: restaurants miss an estimated 21–43% of incoming calls during peak hours, costing roughly $100–600 per location per day in unrealized orders. Selling that story at scale — a company like Maple has stated a target of 40,000 customers, up from roughly 2,500 today — means the sales team (Maple is concurrently hiring SMB AEs and BDRs, per public job listings) needs a constant, prioritized feed of accounts, not a cold list bought once. That's the pipe this project builds: the "pipes that feed leads in" line from a GTM Engineer job description, made real.</p>
+    <p>Maple also runs live integrations through POS/reservation partners — OpenTable, and POS platforms including Shift4/SkyTab, Quantic, and TRAY, per its own announced partnerships. A restaurant already running one of those partner platforms has less activation friction for a Maple-style agent than one running nothing at all — that distinction is built directly into the scoring model below.</p>
+  </section>
+
+  <section>
+    <h2>Four stages, real data end to end</h2>
+    <p class="section-note">Full files: <a href="https://github.com/Aditya-chouhan/restaurant-lead-engine/blob/main/harvest.py" target="_blank" rel="noopener">harvest.py</a> · <a href="https://github.com/Aditya-chouhan/restaurant-lead-engine/blob/main/fingerprint.py" target="_blank" rel="noopener">fingerprint.py</a> · <a href="https://github.com/Aditya-chouhan/restaurant-lead-engine/blob/main/score_leads.py" target="_blank" rel="noopener">score_leads.py</a> · <a href="https://github.com/Aditya-chouhan/restaurant-lead-engine/blob/main/brief_top_leads.py" target="_blank" rel="noopener">brief_top_leads.py</a></p>
+    <div class="stage-flow">
+      <span class="stage-pill"><b>1. harvest</b> — Overpass API (OSM), no key</span>
+      <span class="stage-pill"><b>2. fingerprint</b> — fetch real homepages, detect stack</span>
+      <span class="stage-pill"><b>3. score</b> — disclosed Maple-fit weights</span>
+      <span class="stage-pill"><b>4. brief</b> — rep pre-call brief, evidence-cited</span>
+    </div>
+
+    <div class="detail-card">
+      <span class="path">stage 1 — harvest: 80 real NYC restaurants</span>
+      <p class="query-label">Overpass query over OpenStreetMap · amenity=restaurant, website + phone tags present · one Manhattan bounding box</p>
+      <table class="result-table">
+        <tr><th>name</th><th>website</th><th>phone</th></tr>
+        <tr><td>Sam Sunny</td><td>samsunnynyc.com</td><td class="num">+1-212-837-1044</td></tr>
+        <tr><td>Little Alley</td><td>littlealley.nyc</td><td class="num">+1-646-998-3976</td></tr>
+        <tr><td>The Musket Room</td><td>musketroom.com</td><td class="num">+1-212-219-0764</td></tr>
+        <tr><td>Hard Rock Cafe</td><td>hardrockcafe.com</td><td class="num">+1 212-343-3355</td></tr>
+      </table>
+      <p class="finding">80 restaurants harvested, 65 homepages successfully fetched in stage 2, 15 fetch-failed and excluded from scoring rather than dropped silently — reported in <code>data/leads_scored.json</code> under <code>excluded</code>.</p>
+    </div>
+
+    <div class="detail-card">
+      <span class="path">stage 2 — fingerprint: what's actually detected across 65 real sites</span>
+      <p class="query-label">URL-context-aware pattern match against real HTML — every hit stores the literal matched fragment as evidence</p>
+      <table class="result-table">
+        <tr><th>category</th><th>platform</th><th>sites</th></tr>
+        <tr><td>reservations</td><td>resy</td><td class="num">26</td></tr>
+        <tr><td>ordering</td><td>toast</td><td class="num">13</td></tr>
+        <tr><td>ordering</td><td>bentobox</td><td class="num">10</td></tr>
+        <tr><td>reservations</td><td>opentable</td><td class="num">9</td></tr>
+        <tr><td>delivery marketplace</td><td>grubhub</td><td class="num">9</td></tr>
+        <tr><td>reservations</td><td>sevenrooms</td><td class="num">4</td></tr>
+        <tr><td>delivery marketplace</td><td>ubereats</td><td class="num">4</td></tr>
+        <tr><td>voice-AI-adjacent</td><td>popmenu (platform-level only)</td><td class="num">2</td></tr>
+        <tr><td>ordering</td><td>square</td><td class="num">2</td></tr>
+      </table>
+      <p class="finding">22 of the 65 fetched sites had zero detections at all — no ordering, no reservation platform, nothing but a phone number. Those are the highest-priority accounts in stage 3, and the pipeline says so because the join says so, not because I asserted it.</p>
+    </div>
+
+    <div class="detail-card">
+      <span class="path">the precision lesson — found twice while building this, not hypothetical</span>
+      <p>A bare-word <code>grep</code> for "tock" during early manual scoping produced two real false positives on this exact dataset:</p>
+      <ul class="plain">
+        <li><strong>Tick Tock Diner</strong> matched because the restaurant's own name contains "tock" — it actually runs OpenTable, not Tock.</li>
+        <li><strong>samsunnynyc.com</strong> also matched "tock" — from a JS config string, <code>"stores.EnableOutOfStockAlignment"</code>, nothing to do with reservations at all.</li>
+      </ul>
+      <p class="finding"><code>fingerprint.py</code> requires the real domain fragment (<code>exploretock.com</code>, not the word "tock") specifically because of these two catches — both verified clean in the current output. Small example, but it's the actual argument for evidence-based detection over keyword matching.</p>
+    </div>
+
+    <div class="detail-card">
+      <span class="path">stage 3 — score: top 10 of 65, by disclosed Maple-fit weight</span>
+      <p class="query-label">+40 phone-only/no ordering · +25 OpenTable (live Maple integration) · +15 delivery marketplace w/ no direct ordering · −50 voice-AI-adjacent already detected</p>
+      <table class="result-table">
+        <tr><th>restaurant</th><th>score</th><th>why</th></tr>
+        <tr><td>Hard Rock Cafe</td><td class="num">80</td><td>phone-only + OpenTable + Grubhub</td></tr>
+        <tr><td>The Laurels</td><td class="num">80</td><td>phone-only + OpenTable + Grubhub</td></tr>
+        <tr><td>Senza Gluten</td><td class="num">80</td><td>phone-only + OpenTable + Grubhub</td></tr>
+        <tr><td>Tick Tock Diner</td><td class="num">65</td><td>phone-only + OpenTable</td></tr>
+        <tr><td>Pera</td><td class="num">65</td><td>phone-only + OpenTable</td></tr>
+        <tr><td>Tipsy Parson</td><td class="num">65</td><td>phone-only + OpenTable</td></tr>
+        <tr><td>Jack's Wife Freda</td><td class="num">55</td><td>phone-only + Grubhub, no direct ordering</td></tr>
+        <tr><td>Sam Sunny</td><td class="num">40</td><td>phone-only, no platforms detected at all</td></tr>
+      </table>
+      <p class="finding">The two accounts with a detected voice-AI-adjacent platform (Zoob Zib Thai, Chote Nawab) score −10 net — still phone-dependent, but flagged as a likely displacement conversation rather than a greenfield one. Scored down, not hidden.</p>
+    </div>
+
+    <div class="detail-card">
+      <span class="path">stage 4 — brief: a real rep pre-call brief, generated from stage 2/3 output</span>
+      <p class="query-label">No Claude/OpenAI API call — no key available in this environment. Template-composed from real detected facts, disclosed here exactly as it is in the code, not presented as a live model call.</p>
+      <pre>Pre-call brief — Hard Rock Cafe
+Website: hardrockcafe.com/location/new-york/
+Phone: +1 212-343-3355
+Maple-fit score: 80
+
+Why: +40 phone-only, no online ordering · +25 OpenTable detected
+     (live Maple integration) · +15 Grubhub, no direct ordering
+
+Detected stack:
+- online ordering: no online ordering detected on the site
+- reservations: opentable (evidence: opentable.com)
+- delivery marketplace: grubhub (evidence: grubhub.com)
+- voice-AI product: none detected
+
+Talking point: High call-dependency, no direct ordering channel
+of their own — the exact profile of a restaurant losing orders
+to missed calls during peak hours.</pre>
+    </div>
+  </section>
+
+  <section class="cta">
+    <h2>Why I built this</h2>
+    <p>The other four demos in this portfolio (<a href="https://aditya-chouhan.github.io/signal-engine-demo/" target="_blank" rel="noopener">signal-engine-demo</a>, <a href="https://aditya-chouhan.github.io/account-brief-demo/" target="_blank" rel="noopener">account-brief-demo</a>, <a href="https://aditya-chouhan.github.io/gtm-warehouse-demo/" target="_blank" rel="noopener">gtm-warehouse-demo</a>, <a href="https://aditya-chouhan.github.io/mem0-audit-casestudy/" target="_blank" rel="noopener">the mem0 audit</a>) are built on public dev-tool signals. This one is built around a specific company's stated GTM problem — reading a job description for what it's actually asking for, then building the pipe, not a generic portfolio piece.</p>
+    <div class="cta-row">
+      <a class="btn" href="mailto:ai.adityachouhan@gmail.com?subject=Restaurant%20lead%20engine" target="_top" rel="noopener">Let's talk</a>
+      <button class="btn" type="button" id="copyEmailBtn" style="border:none;cursor:pointer;">Copy email address</button>
+    </div>
+    <p class="email-line">Or write directly: <a href="mailto:ai.adityachouhan@gmail.com" target="_top" rel="noopener">ai.adityachouhan@gmail.com</a></p>
+  </section>
+
+  <footer>
+    <span>Aditya Chouhan — <a href="https://aditya-chouhan.github.io/signal-engine-demo/" target="_blank" rel="noopener">signal-engine-demo</a> · <a href="https://aditya-chouhan.github.io/account-brief-demo/" target="_blank" rel="noopener">account-brief-demo</a> · <a href="https://aditya-chouhan.github.io/gtm-warehouse-demo/" target="_blank" rel="noopener">gtm-warehouse-demo</a> · <a href="https://aditya-chouhan.github.io/mem0-audit-casestudy/" target="_blank" rel="noopener">mem0 audit</a></span>
+    <a href="mailto:ai.adityachouhan@gmail.com" target="_top" rel="noopener">ai.adityachouhan@gmail.com</a>
+  </footer>
+
+</div>
+
+<script>
+  (function () {
+    var btn = document.getElementById('copyEmailBtn');
+    if (!btn) return;
+    var email = 'ai.adityachouhan@gmail.com';
+    var originalLabel = btn.textContent;
+    btn.addEventListener('click', function () {
+      function fallbackCopy() {
+        var ta = document.createElement('textarea');
+        ta.value = email;
+        ta.style.position = 'fixed';
+        ta.style.opacity = '0';
+        document.body.appendChild(ta);
+        ta.focus();
+        ta.select();
+        try { document.execCommand('copy'); } catch (e) {}
+        document.body.removeChild(ta);
+      }
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(email).catch(fallbackCopy);
+      } else {
+        fallbackCopy();
+      }
+      btn.textContent = 'Copied!';
+      btn.disabled = true;
+      setTimeout(function () { btn.textContent = originalLabel; btn.disabled = false; }, 2000);
+    });
+  })();
+</script>

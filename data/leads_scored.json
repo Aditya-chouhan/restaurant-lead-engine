@@ -1,0 +1,1208 @@
+{
+  "scored": [
+    {
+      "osm_id": 643414350,
+      "name": "Hard Rock Cafe",
+      "website": "https://www.hardrockcafe.com/location/new-york/",
+      "phone": "+1 212-343-3355",
+      "score": 80,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)",
+        "+25 OpenTable detected (live Maple integration = lower activation friction)",
+        "+15 delivery marketplace present, no direct ordering channel"
+      ],
+      "detections": [
+        {
+          "category": "reservations",
+          "platform": "opentable",
+          "evidence": "opentable.com"
+        },
+        {
+          "category": "delivery_marketplace",
+          "platform": "grubhub",
+          "evidence": "grubhub.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 2279536009,
+      "name": "The Laurels",
+      "website": "https://thelaurelsnyc.com",
+      "phone": "+1-646-398-9002",
+      "score": 80,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)",
+        "+25 OpenTable detected (live Maple integration = lower activation friction)",
+        "+15 delivery marketplace present, no direct ordering channel"
+      ],
+      "detections": [
+        {
+          "category": "reservations",
+          "platform": "opentable",
+          "evidence": "opentable.com"
+        },
+        {
+          "category": "delivery_marketplace",
+          "platform": "grubhub",
+          "evidence": "grubhub.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 2550046894,
+      "name": "Senza Gluten",
+      "website": "https://senzaglutennyc.com/",
+      "phone": "+1-212-475-7775",
+      "score": 80,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)",
+        "+25 OpenTable detected (live Maple integration = lower activation friction)",
+        "+15 delivery marketplace present, no direct ordering channel"
+      ],
+      "detections": [
+        {
+          "category": "reservations",
+          "platform": "opentable",
+          "evidence": "opentable.com"
+        },
+        {
+          "category": "delivery_marketplace",
+          "platform": "grubhub",
+          "evidence": "grubhub.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 663104998,
+      "name": "Tick Tock Diner",
+      "website": "https://www.ticktockdinerny.com",
+      "phone": "+1 212-268-8444",
+      "score": 65,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)",
+        "+25 OpenTable detected (live Maple integration = lower activation friction)"
+      ],
+      "detections": [
+        {
+          "category": "reservations",
+          "platform": "opentable",
+          "evidence": "opentable.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 1427212491,
+      "name": "Pera",
+      "website": "https://www.peranyc.com/",
+      "phone": "+1 212-878-6301",
+      "score": 65,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)",
+        "+25 OpenTable detected (live Maple integration = lower activation friction)"
+      ],
+      "detections": [
+        {
+          "category": "reservations",
+          "platform": "opentable",
+          "evidence": "opentable.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 2411595856,
+      "name": "Tipsy Parson",
+      "website": "https://www.tipsyparson.com/",
+      "phone": "+1 212-620-4545",
+      "score": 65,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)",
+        "+25 OpenTable detected (live Maple integration = lower activation friction)"
+      ],
+      "detections": [
+        {
+          "category": "reservations",
+          "platform": "opentable",
+          "evidence": "opentable.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 2547242036,
+      "name": "Jack\u2019s Wife Freda",
+      "website": "https://jackswifefreda.com",
+      "phone": "+1-212-510-8550",
+      "score": 55,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)",
+        "+15 delivery marketplace present, no direct ordering channel"
+      ],
+      "detections": [
+        {
+          "category": "reservations",
+          "platform": "resy",
+          "evidence": "resy.com"
+        },
+        {
+          "category": "delivery_marketplace",
+          "platform": "grubhub",
+          "evidence": "grubhub.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 2549952990,
+      "name": "Mamazul Mexican Grill",
+      "website": "https://www.mamazulnyc.com/",
+      "phone": "+1-212-500-6988",
+      "score": 55,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)",
+        "+15 delivery marketplace present, no direct ordering channel"
+      ],
+      "detections": [
+        {
+          "category": "delivery_marketplace",
+          "platform": "grubhub",
+          "evidence": "grubhub.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 2550051106,
+      "name": "Tue Thai Food",
+      "website": "https://www.tuethainyc.com",
+      "phone": "+1-212-929-9888",
+      "score": 55,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)",
+        "+15 delivery marketplace present, no direct ordering channel"
+      ],
+      "detections": [
+        {
+          "category": "delivery_marketplace",
+          "platform": "grubhub",
+          "evidence": "grubhub.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 357620442,
+      "name": "Sam Sunny",
+      "website": "https://www.samsunnynyc.com",
+      "phone": "+1-212-837-1044",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": []
+    },
+    {
+      "osm_id": 419359956,
+      "name": "Bubo",
+      "website": "https://www.bubonyc.com",
+      "phone": "+1-212-532-3300",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": []
+    },
+    {
+      "osm_id": 662433328,
+      "name": "Freemans",
+      "website": "https://www.freemansrestaurant.com",
+      "phone": "+1-212-420-0012",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": [
+        {
+          "category": "reservations",
+          "platform": "resy",
+          "evidence": "resy.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 931799207,
+      "name": "Joe's Pizza",
+      "website": "https://www.joespizzanyc.com/",
+      "phone": "+1 212-366-1182",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": []
+    },
+    {
+      "osm_id": 1002880708,
+      "name": "Lombardi's Pizza",
+      "website": "https://www.firstpizza.com/",
+      "phone": "+1-212-941-7994",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": []
+    },
+    {
+      "osm_id": 1112477518,
+      "name": "M\u1ed9c M\u1ea1c",
+      "website": "https://mocmacnyc.com",
+      "phone": "+1-516-943-9347",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": []
+    },
+    {
+      "osm_id": 1362703566,
+      "name": "Clinton St. Baking Company",
+      "website": "https://clintonstreetbaking.com/",
+      "phone": "+1-646-602-6263",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": [
+        {
+          "category": "reservations",
+          "platform": "resy",
+          "evidence": "resy.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 1379410005,
+      "name": "Stromboli Pizza",
+      "website": "https://www.strombolipizzeria.com/",
+      "phone": "+1 212-673-3691",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": []
+    },
+    {
+      "osm_id": 1707825816,
+      "name": "Skylight Diner",
+      "website": "https://skylightdinernyc.com/",
+      "phone": "+1-212-244-0395",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": []
+    },
+    {
+      "osm_id": 1707825817,
+      "name": "Hudson Station Bar and Grill",
+      "website": "https://www.hudsonstation.com",
+      "phone": "+1 212-244-4406",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": []
+    },
+    {
+      "osm_id": 1883739637,
+      "name": "Laut",
+      "website": "https://www.lautnyc.com/",
+      "phone": "+1 212-206-8989",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": [
+        {
+          "category": "reservations",
+          "platform": "resy",
+          "evidence": "resy.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 2081539634,
+      "name": "LOVE Korean BBQ",
+      "website": "https://lovekoreanbbq.com/",
+      "phone": "+1-646-669-8147",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": []
+    },
+    {
+      "osm_id": 2279542456,
+      "name": "IHOP",
+      "website": "https://restaurants.ihop.com/en-us/ny/new-york/breakfast-235-e-14th-st-237-3357",
+      "phone": "+1 212-388-1499",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": []
+    },
+    {
+      "osm_id": 2300348739,
+      "name": "Haandi",
+      "website": "https://haandiny.com/",
+      "phone": "+1-212-685-5200",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": []
+    },
+    {
+      "osm_id": 2300362286,
+      "name": "Diner 24",
+      "website": "https://diner24nyc.com",
+      "phone": "+1-646-852-6921",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": []
+    },
+    {
+      "osm_id": 2307164626,
+      "name": "Barn Joo Nomad",
+      "website": "https://www.barnjoonomad.com",
+      "phone": "+1-917-409-1637",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": []
+    },
+    {
+      "osm_id": 2358048515,
+      "name": "Waverly Diner",
+      "website": "https://waverlydiner.com",
+      "phone": "+1-212-675-3181",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": []
+    },
+    {
+      "osm_id": 2377128157,
+      "name": "LOULOU",
+      "website": "https://www.loulounyc.com/",
+      "phone": "+1-212-337-9577",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": [
+        {
+          "category": "reservations",
+          "platform": "resy",
+          "evidence": "resy.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 2377128169,
+      "name": "Lasagna Ristorante",
+      "website": "https://lasagnarestaurantchelsea.com",
+      "phone": "+1-212-242-4551",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": []
+    },
+    {
+      "osm_id": 2408375729,
+      "name": "Dallas BBQ",
+      "website": "https://www.dallasbbq.com/chelsea",
+      "phone": "+1-212-462-0001",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": [
+        {
+          "category": "reservations",
+          "platform": "sevenrooms",
+          "evidence": "sevenrooms.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 2411819330,
+      "name": "Salinas",
+      "website": "https://salinasnyc.com/",
+      "phone": "+1 212-776-1990",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": [
+        {
+          "category": "reservations",
+          "platform": "resy",
+          "evidence": "resy.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 2478495089,
+      "name": "BLT Fish",
+      "website": "http://bltfish.com/",
+      "phone": "+1 212 691-8888",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": []
+    },
+    {
+      "osm_id": 2478495091,
+      "name": "Aldea",
+      "website": "https://aldearestaurant.com/",
+      "phone": "+1 212 675-7223",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": []
+    },
+    {
+      "osm_id": 2479458329,
+      "name": "Hakata TonTon",
+      "website": "https://www.hakatatonton.net/",
+      "phone": "+1-917-261-6536",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": [
+        {
+          "category": "reservations",
+          "platform": "resy",
+          "evidence": "resy.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 2494160674,
+      "name": "Paul's \"Da Burger Joint\"",
+      "website": "https://paulsburgersnyc.com",
+      "phone": "+1-212-529-3033",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": []
+    },
+    {
+      "osm_id": 2516877509,
+      "name": "Txikito",
+      "website": "https://www.txikitonyc.com/",
+      "phone": "+1 212-242-4730",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": [
+        {
+          "category": "reservations",
+          "platform": "resy",
+          "evidence": "resy.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 2547121482,
+      "name": "Love Mama",
+      "website": "https://lovemamanyc.com",
+      "phone": "+1-212-254-5370",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": []
+    },
+    {
+      "osm_id": 2547155245,
+      "name": "Tim Ho Wan",
+      "website": "https://timhowanusa.com",
+      "phone": "+1-212-228-2800",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": []
+    },
+    {
+      "osm_id": 2547205472,
+      "name": "Sauerkraut Fish",
+      "website": "https://sauerkrautfish9855.com",
+      "phone": "+1-212-388-9855",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": []
+    },
+    {
+      "osm_id": 2547223602,
+      "name": "Manuela",
+      "website": "https://manuela-nyc.com",
+      "phone": "+1-917-245-2770",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": [
+        {
+          "category": "reservations",
+          "platform": "sevenrooms",
+          "evidence": "sevenrooms.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 2547241666,
+      "name": "Upside Pizza",
+      "website": "https://www.upsidepizza.com/",
+      "phone": "+19174092989",
+      "score": 40,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)"
+      ],
+      "detections": []
+    },
+    {
+      "osm_id": 419359995,
+      "name": "Little Alley",
+      "website": "https://www.littlealley.nyc",
+      "phone": "+1-646-998-3976",
+      "score": 25,
+      "reasons": [
+        "+25 OpenTable detected (live Maple integration = lower activation friction)"
+      ],
+      "detections": [
+        {
+          "category": "ordering",
+          "platform": "toast",
+          "evidence": "order.toasttab.com"
+        },
+        {
+          "category": "reservations",
+          "platform": "opentable",
+          "evidence": "opentable.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 2547036945,
+      "name": "The GRID",
+      "website": "https://greatjonesdistillingco.com/restaurant/",
+      "phone": "+1-332-910-9877",
+      "score": 25,
+      "reasons": [
+        "+25 OpenTable detected (live Maple integration = lower activation friction)"
+      ],
+      "detections": [
+        {
+          "category": "ordering",
+          "platform": "toast",
+          "evidence": "toasttab.com"
+        },
+        {
+          "category": "reservations",
+          "platform": "opentable",
+          "evidence": "opentable.com"
+        },
+        {
+          "category": "reservations",
+          "platform": "sevenrooms",
+          "evidence": "sevenrooms.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 2547209021,
+      "name": "Pranakhon",
+      "website": "https://www.pranakhonnyc.com/",
+      "phone": "+1 212 786 6789",
+      "score": 25,
+      "reasons": [
+        "+25 OpenTable detected (live Maple integration = lower activation friction)"
+      ],
+      "detections": [
+        {
+          "category": "ordering",
+          "platform": "toast",
+          "evidence": "toasttab.com"
+        },
+        {
+          "category": "reservations",
+          "platform": "opentable",
+          "evidence": "opentable.com"
+        },
+        {
+          "category": "delivery_marketplace",
+          "platform": "ubereats",
+          "evidence": "ubereats.com"
+        },
+        {
+          "category": "delivery_marketplace",
+          "platform": "grubhub",
+          "evidence": "grubhub.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 368043718,
+      "name": "Moono",
+      "website": "https://www.moononyc.com",
+      "phone": "+1-646-429-8309",
+      "score": 0,
+      "reasons": [],
+      "detections": [
+        {
+          "category": "ordering",
+          "platform": "toast",
+          "evidence": "toasttab.com"
+        },
+        {
+          "category": "reservations",
+          "platform": "resy",
+          "evidence": "resy.com"
+        },
+        {
+          "category": "reservations",
+          "platform": "sevenrooms",
+          "evidence": "sevenrooms.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 419362699,
+      "name": "The Musket Room",
+      "website": "https://www.musketroom.com",
+      "phone": "+1-212-219-0764",
+      "score": 0,
+      "reasons": [],
+      "detections": [
+        {
+          "category": "ordering",
+          "platform": "bentobox_ordering",
+          "evidence": "getbento.com"
+        },
+        {
+          "category": "reservations",
+          "platform": "resy",
+          "evidence": "resy.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 763650163,
+      "name": "Junior's",
+      "website": "https://www.juniorscheesecake.com/blog/restaurants/times-square/",
+      "phone": "+1 212-302-2000",
+      "score": 0,
+      "reasons": [],
+      "detections": [
+        {
+          "category": "ordering",
+          "platform": "toast",
+          "evidence": "toasttab.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 1297282272,
+      "name": "Amelia's",
+      "website": "https://www.amelias.nyc",
+      "phone": "+1-646-850-0044",
+      "score": 0,
+      "reasons": [],
+      "detections": [
+        {
+          "category": "ordering",
+          "platform": "bentobox_ordering",
+          "evidence": "getbento.com"
+        },
+        {
+          "category": "reservations",
+          "platform": "resy",
+          "evidence": "resy.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 1346386984,
+      "name": "Smith & Wollensky",
+      "website": "https://www.smithandwollenskynyc.com/",
+      "phone": "+1-212-753-1530",
+      "score": 0,
+      "reasons": [],
+      "detections": [
+        {
+          "category": "ordering",
+          "platform": "toast",
+          "evidence": "toasttab.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 1683399834,
+      "name": "Bar Bianchi",
+      "website": "https://www.barbianchinyc.com/",
+      "phone": "+1-646-490-6004",
+      "score": 0,
+      "reasons": [],
+      "detections": [
+        {
+          "category": "ordering",
+          "platform": "toast",
+          "evidence": "order.toasttab.com"
+        },
+        {
+          "category": "reservations",
+          "platform": "resy",
+          "evidence": "resy.com"
+        },
+        {
+          "category": "delivery_marketplace",
+          "platform": "ubereats",
+          "evidence": "ubereats.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 1714427541,
+      "name": "Shmon\u00e9",
+      "website": "https://www.shmonenyc.com",
+      "phone": "+1-646-438-9815",
+      "score": 0,
+      "reasons": [],
+      "detections": [
+        {
+          "category": "ordering",
+          "platform": "toast",
+          "evidence": "toasttab.com"
+        },
+        {
+          "category": "reservations",
+          "platform": "resy",
+          "evidence": "resy.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 1916532788,
+      "name": "Mercato",
+      "website": "https://mercatonyc.com/",
+      "phone": "+1-212-643-2000",
+      "score": 0,
+      "reasons": [],
+      "detections": [
+        {
+          "category": "ordering",
+          "platform": "square",
+          "evidence": "squareup.com"
+        },
+        {
+          "category": "reservations",
+          "platform": "resy",
+          "evidence": "resy.com"
+        },
+        {
+          "category": "delivery_marketplace",
+          "platform": "ubereats",
+          "evidence": "ubereats.com"
+        },
+        {
+          "category": "delivery_marketplace",
+          "platform": "grubhub",
+          "evidence": "grubhub.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 2134025590,
+      "name": "Del Frisco's Double Eagle Steakhouse",
+      "website": "https://delfriscos.com/steakhouse/new-york/",
+      "phone": "+1 212-575-5129",
+      "score": 0,
+      "reasons": [],
+      "detections": [
+        {
+          "category": "ordering",
+          "platform": "bentobox_ordering",
+          "evidence": "getbento.com"
+        },
+        {
+          "category": "reservations",
+          "platform": "resy",
+          "evidence": "resy.com"
+        },
+        {
+          "category": "delivery_marketplace",
+          "platform": "ubereats",
+          "evidence": "ubereats.com"
+        },
+        {
+          "category": "delivery_marketplace",
+          "platform": "grubhub",
+          "evidence": "grubhub.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 2409946234,
+      "name": "The Meatball Company",
+      "website": "https://www.themeatballshop.com/locations/#chelsea",
+      "phone": "+1 212-257-4363",
+      "score": 0,
+      "reasons": [],
+      "detections": [
+        {
+          "category": "ordering",
+          "platform": "bentobox_ordering",
+          "evidence": "getbento.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 2410485653,
+      "name": "Qanoon",
+      "website": "https://www.qanoonnyc.com",
+      "phone": "+1 646-843-9711",
+      "score": 0,
+      "reasons": [],
+      "detections": [
+        {
+          "category": "ordering",
+          "platform": "square",
+          "evidence": "squareup.com"
+        },
+        {
+          "category": "reservations",
+          "platform": "resy",
+          "evidence": "resy.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 2412370159,
+      "name": "Olde City",
+      "website": "https://www.loveoldecity.com/",
+      "phone": "+1 929-281-3222",
+      "score": 0,
+      "reasons": [],
+      "detections": [
+        {
+          "category": "ordering",
+          "platform": "toast",
+          "evidence": "toasttab.com"
+        },
+        {
+          "category": "ordering",
+          "platform": "bentobox_ordering",
+          "evidence": "getbento.com"
+        },
+        {
+          "category": "reservations",
+          "platform": "resy",
+          "evidence": "resy.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 2517051874,
+      "name": "Riverpark",
+      "website": "https://www.riverparknyc.com/",
+      "phone": "+1 212 729-9790",
+      "score": 0,
+      "reasons": [],
+      "detections": [
+        {
+          "category": "ordering",
+          "platform": "toast",
+          "evidence": "toasttab.com"
+        },
+        {
+          "category": "reservations",
+          "platform": "resy",
+          "evidence": "resy.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 2522452461,
+      "name": "Port Sa'id",
+      "website": "https://www.portsaidnyc.com/",
+      "phone": "+1-212-256-0841",
+      "score": 0,
+      "reasons": [],
+      "detections": [
+        {
+          "category": "ordering",
+          "platform": "toast",
+          "evidence": "toasttab.com"
+        },
+        {
+          "category": "reservations",
+          "platform": "resy",
+          "evidence": "resy.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 2547110366,
+      "name": "Dos Caminos",
+      "website": "https://www.doscaminos.com/soho/",
+      "phone": "+1-212-277-4300",
+      "score": 0,
+      "reasons": [],
+      "detections": [
+        {
+          "category": "ordering",
+          "platform": "bentobox_ordering",
+          "evidence": "getbento.com"
+        },
+        {
+          "category": "reservations",
+          "platform": "resy",
+          "evidence": "resy.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 2547114752,
+      "name": "Linen Hall",
+      "website": "https://linenhallnyc.com",
+      "phone": "+1-646-602-9316",
+      "score": 0,
+      "reasons": [],
+      "detections": [
+        {
+          "category": "ordering",
+          "platform": "bentobox_ordering",
+          "evidence": "getbento.com"
+        },
+        {
+          "category": "reservations",
+          "platform": "resy",
+          "evidence": "resy.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 2547193376,
+      "name": "Leon's",
+      "website": "https://www.leonsnyc.com",
+      "phone": "+1-646-410-2703",
+      "score": 0,
+      "reasons": [],
+      "detections": [
+        {
+          "category": "ordering",
+          "platform": "bentobox_ordering",
+          "evidence": "getbento.com"
+        },
+        {
+          "category": "reservations",
+          "platform": "resy",
+          "evidence": "resy.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 2547246978,
+      "name": "Thai Diner",
+      "website": "https://www.thaidiner.com",
+      "phone": "+1-646-559-4140",
+      "score": 0,
+      "reasons": [],
+      "detections": [
+        {
+          "category": "ordering",
+          "platform": "toast",
+          "evidence": "order.toasttab.com"
+        },
+        {
+          "category": "reservations",
+          "platform": "resy",
+          "evidence": "resy.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 2550012191,
+      "name": "Bar Moga",
+      "website": "https://www.barmoga.com/",
+      "phone": "+1-929-399-5853",
+      "score": 0,
+      "reasons": [],
+      "detections": [
+        {
+          "category": "ordering",
+          "platform": "toast",
+          "evidence": "toasttab.com"
+        },
+        {
+          "category": "ordering",
+          "platform": "bentobox_ordering",
+          "evidence": "getbento.com"
+        },
+        {
+          "category": "reservations",
+          "platform": "resy",
+          "evidence": "resy.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 2550046876,
+      "name": "Artichoke Pizza",
+      "website": "https://www.artichokepizza.com/location/artichoke-basille-pizza-greenwich-village/",
+      "phone": "+1-646-609-1011",
+      "score": 0,
+      "reasons": [],
+      "detections": [
+        {
+          "category": "ordering",
+          "platform": "bentobox_ordering",
+          "evidence": "getbento.com"
+        },
+        {
+          "category": "reservations",
+          "platform": "resy",
+          "evidence": "resy.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 1707825815,
+      "name": "Zoob Zib Thai Authentic Noodle Bar",
+      "website": "https://www.zoobzibnyc.com/",
+      "phone": "+1-212-971-8530",
+      "score": -10,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)",
+        "-50 voice-AI-adjacent platform detected (Slang.ai/HostAI = confirmed voice-AI competitor; Popmenu = platform-level signal only, feature may not be active)"
+      ],
+      "detections": [
+        {
+          "category": "voice_ai_competitor",
+          "platform": "popmenu_platform",
+          "evidence": "popmenu.com"
+        }
+      ]
+    },
+    {
+      "osm_id": 2300348734,
+      "name": "Chote Nawab",
+      "website": "https://www.chotenawabnyc.com/",
+      "phone": "+1-212-679-4603",
+      "score": -10,
+      "reasons": [
+        "+40 phone listed, no online ordering detected (call-dependent)",
+        "-50 voice-AI-adjacent platform detected (Slang.ai/HostAI = confirmed voice-AI competitor; Popmenu = platform-level signal only, feature may not be active)"
+      ],
+      "detections": [
+        {
+          "category": "reservations",
+          "platform": "resy",
+          "evidence": "resy.com"
+        },
+        {
+          "category": "voice_ai_competitor",
+          "platform": "popmenu_platform",
+          "evidence": "popmenu.com"
+        }
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "name": "Marchi's",
+      "website": "https://www.marchirestaurant.com/",
+      "reason": "fetch_failed"
+    },
+    {
+      "name": "Mama Mezze",
+      "website": "https://www.hillcountrychicken.com/",
+      "reason": "fetch_failed"
+    },
+    {
+      "name": "Balade",
+      "website": "https://www.baladerestaurants.com",
+      "reason": "fetch_failed"
+    },
+    {
+      "name": "Katz's Delicatessen",
+      "website": "https://www.katzsdelicatessen.com",
+      "reason": "fetch_failed"
+    },
+    {
+      "name": "Parkside Lounge",
+      "website": "https://www.parksidelounge.net/",
+      "reason": "fetch_failed"
+    },
+    {
+      "name": "Hell's Kitchen",
+      "website": "https://www.hkhellskitchen.com/",
+      "reason": "fetch_failed"
+    },
+    {
+      "name": "M-Thai",
+      "website": "www.M-Thainyc.com",
+      "reason": "fetch_failed"
+    },
+    {
+      "name": "North Square",
+      "website": "https://northsquareny.com",
+      "reason": "fetch_failed"
+    },
+    {
+      "name": "Temerarion",
+      "website": "https://www.temerarionyc.com",
+      "reason": "fetch_failed"
+    },
+    {
+      "name": "Pad Thai",
+      "website": "https://www.padthai8thave.com/",
+      "reason": "fetch_failed"
+    },
+    {
+      "name": "Famous Original Ray's Pizza",
+      "website": "famousoriginalrayschelsea.com",
+      "reason": "fetch_failed"
+    },
+    {
+      "name": "Omai",
+      "website": "https://omainyc.com/",
+      "reason": "fetch_failed"
+    },
+    {
+      "name": "Mr. Keke",
+      "website": "https://www.mrkeke.net/restaurant-location-manhattan",
+      "reason": "fetch_failed"
+    },
+    {
+      "name": "Chat n Chew",
+      "website": "https://chatnchewnyc.com/",
+      "reason": "fetch_failed"
+    },
+    {
+      "name": "Ki Mi Ka",
+      "website": "https://www.kimikanyc.com",
+      "reason": "fetch_failed"
+    }
+  ]
+}

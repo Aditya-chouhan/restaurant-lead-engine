@@ -1,0 +1,642 @@
+[
+  {
+    "osm_id": 357620442,
+    "name": "Sam Sunny",
+    "website": "https://www.samsunnynyc.com",
+    "phone": "+1-212-837-1044",
+    "cuisine": "korean",
+    "opening_hours": "Mo-Th 12:00-22:00; Fr-Sa 12:00-23:00; Su 12:00-22:00"
+  },
+  {
+    "osm_id": 368043718,
+    "name": "Moono",
+    "website": "https://www.moononyc.com",
+    "phone": "+1-646-429-8309",
+    "cuisine": "korean",
+    "opening_hours": "Mo-Su 10:00-22:30"
+  },
+  {
+    "osm_id": 419359956,
+    "name": "Bubo",
+    "website": "https://www.bubonyc.com",
+    "phone": "+1-212-532-3300",
+    "cuisine": "mediterranean;american",
+    "opening_hours": "Mo-Th 16:00-01:00, Fr 16:00-02:30, Sa 12:00-01:00, Su 12:00-11:30"
+  },
+  {
+    "osm_id": 419359995,
+    "name": "Little Alley",
+    "website": "https://www.littlealley.nyc",
+    "phone": "+1-646-998-3976",
+    "cuisine": "chinese;shanghai",
+    "opening_hours": "Mo-Th 11:30-15:00,17:00-22:00; Fr-Sa 11:30-15:00,17:00-22:30; Su 11:30-15:00,17:00-22:00"
+  },
+  {
+    "osm_id": 419362699,
+    "name": "The Musket Room",
+    "website": "https://www.musketroom.com",
+    "phone": "+1-212-219-0764",
+    "cuisine": "continental;eclectic",
+    "opening_hours": "Tu-Sa 17:00-23:00"
+  },
+  {
+    "osm_id": 643414350,
+    "name": "Hard Rock Cafe",
+    "website": "https://www.hardrockcafe.com/location/new-york/",
+    "phone": "+1 212-343-3355",
+    "cuisine": "american",
+    "opening_hours": null
+  },
+  {
+    "osm_id": 662433328,
+    "name": "Freemans",
+    "website": "https://www.freemansrestaurant.com",
+    "phone": "+1-212-420-0012",
+    "cuisine": "american",
+    "opening_hours": "Mo-Th 11:00-23:00; Fr 11:00-02:00; Sa 10:00-02:00; Su 10:00-23:00"
+  },
+  {
+    "osm_id": 663104998,
+    "name": "Tick Tock Diner",
+    "website": "https://www.ticktockdinerny.com",
+    "phone": "+1 212-268-8444",
+    "cuisine": "diner",
+    "opening_hours": "We-Su 00:00-00:00; Mo, Tu 06:00-22:00"
+  },
+  {
+    "osm_id": 763650163,
+    "name": "Junior's",
+    "website": "https://www.juniorscheesecake.com/blog/restaurants/times-square/",
+    "phone": "+1 212-302-2000",
+    "cuisine": null,
+    "opening_hours": "Mo-Th, Su 06:30-00:00; Fr, Sa 06:30-01:00"
+  },
+  {
+    "osm_id": 931799207,
+    "name": "Joe's Pizza",
+    "website": "https://www.joespizzanyc.com/",
+    "phone": "+1 212-366-1182",
+    "cuisine": "pizza",
+    "opening_hours": "Mo-Th, Su 10:00-04:00; Fr, Sa 10:00-05:00"
+  },
+  {
+    "osm_id": 1002880708,
+    "name": "Lombardi's Pizza",
+    "website": "https://www.firstpizza.com/",
+    "phone": "+1-212-941-7994",
+    "cuisine": "pizza",
+    "opening_hours": "Mo-Th 12:00-22:00; Fr-Sa 12:00-24:00; Su 12:00-22:00"
+  },
+  {
+    "osm_id": 1112477518,
+    "name": "M\u1ed9c M\u1ea1c",
+    "website": "https://mocmacnyc.com",
+    "phone": "+1-516-943-9347",
+    "cuisine": "vietnamese",
+    "opening_hours": "Mo-Su 12:00-16:00,18:00-22:00"
+  },
+  {
+    "osm_id": 1293173596,
+    "name": "Marchi's",
+    "website": "https://www.marchirestaurant.com/",
+    "phone": "+1-212-679-2494",
+    "cuisine": "italian",
+    "opening_hours": "Mo-Sa 17:00-22:00"
+  },
+  {
+    "osm_id": 1297282272,
+    "name": "Amelia's",
+    "website": "https://www.amelias.nyc",
+    "phone": "+1-646-850-0044",
+    "cuisine": "american",
+    "opening_hours": "Mo-Fr 14:00-24:00, Sa-Su 12:00-02:00"
+  },
+  {
+    "osm_id": 1346386984,
+    "name": "Smith & Wollensky",
+    "website": "https://www.smithandwollenskynyc.com/",
+    "phone": "+1-212-753-1530",
+    "cuisine": "steak_house",
+    "opening_hours": "Mo-Fr 11:45-14:00, 17:00-23:00; Sa-Su 17:00-23:00"
+  },
+  {
+    "osm_id": 1362703566,
+    "name": "Clinton St. Baking Company",
+    "website": "https://clintonstreetbaking.com/",
+    "phone": "+1-646-602-6263",
+    "cuisine": null,
+    "opening_hours": "Mo-Tu 08:30-15:30; We-Fr 08:30-15:30,17:30-22:00; Sa 08:30-16:00,17:30-22:00; Su 08:30-16:00"
+  },
+  {
+    "osm_id": 1379410005,
+    "name": "Stromboli Pizza",
+    "website": "https://www.strombolipizzeria.com/",
+    "phone": "+1 212-673-3691",
+    "cuisine": "pizza",
+    "opening_hours": "Mo-Sa 11:00-05:00"
+  },
+  {
+    "osm_id": 1427212491,
+    "name": "Pera",
+    "website": "https://www.peranyc.com/",
+    "phone": "+1 212-878-6301",
+    "cuisine": "mediterranean",
+    "opening_hours": "Mo-Fr 11:30-22:30; Sa 17:00-22:00; Su 17:00-21:00"
+  },
+  {
+    "osm_id": 1428185705,
+    "name": "Mama Mezze",
+    "website": "https://www.hillcountrychicken.com/",
+    "phone": "+1-212-257-6446",
+    "cuisine": "mediterranean",
+    "opening_hours": "11:00-20:00"
+  },
+  {
+    "osm_id": 1493005667,
+    "name": "Balade",
+    "website": "https://www.baladerestaurants.com",
+    "phone": "+1-212 529-6868",
+    "cuisine": "lebanese",
+    "opening_hours": "Mo-Fr 17:00-24:00; Sa-Su 11:00-23:00"
+  },
+  {
+    "osm_id": 1683399834,
+    "name": "Bar Bianchi",
+    "website": "https://www.barbianchinyc.com/",
+    "phone": "+1-646-490-6004",
+    "cuisine": "italian",
+    "opening_hours": "Mo 17:00-23:00, Tu-We 17:00-24:00, Th 17:00-01:00, Fr 16:00-01:00, Sa 12:00-01:00, Su 12:00-23:00"
+  },
+  {
+    "osm_id": 1707825815,
+    "name": "Zoob Zib Thai Authentic Noodle Bar",
+    "website": "https://www.zoobzibnyc.com/",
+    "phone": "+1-212-971-8530",
+    "cuisine": "thai",
+    "opening_hours": "Mo-Sa 11:30-21:30; Su 12:00-21:30"
+  },
+  {
+    "osm_id": 1707825816,
+    "name": "Skylight Diner",
+    "website": "https://skylightdinernyc.com/",
+    "phone": "+1-212-244-0395",
+    "cuisine": "american;burger;soup;salad;omelette;sandwich;breakfast",
+    "opening_hours": "24/7"
+  },
+  {
+    "osm_id": 1707825817,
+    "name": "Hudson Station Bar and Grill",
+    "website": "https://www.hudsonstation.com",
+    "phone": "+1 212-244-4406",
+    "cuisine": "pub;american",
+    "opening_hours": "Mo-Sa 12:00-04:00; Su 12:00-00:00"
+  },
+  {
+    "osm_id": 1714427541,
+    "name": "Shmon\u00e9",
+    "website": "https://www.shmonenyc.com",
+    "phone": "+1-646-438-9815",
+    "cuisine": "israeli",
+    "opening_hours": "Mo-Sa 18:00-12:00"
+  },
+  {
+    "osm_id": 1883739637,
+    "name": "Laut",
+    "website": "https://www.lautnyc.com/",
+    "phone": "+1 212-206-8989",
+    "cuisine": "thai",
+    "opening_hours": "Mo-Fr 11:30-22:30; Sa 14:00-22:30; Su 13:00-22:00"
+  },
+  {
+    "osm_id": 1915398676,
+    "name": "Katz's Delicatessen",
+    "website": "https://www.katzsdelicatessen.com",
+    "phone": "+1-212-254-2246",
+    "cuisine": "deli",
+    "opening_hours": "Mo-Th 08:00-22:15; Fr 08:00-24:00; Sa 00:00-24:00; Su 00:00-22:15"
+  },
+  {
+    "osm_id": 1916532788,
+    "name": "Mercato",
+    "website": "https://mercatonyc.com/",
+    "phone": "+1-212-643-2000",
+    "cuisine": "italian",
+    "opening_hours": "Mo-Su 11:30-00:00"
+  },
+  {
+    "osm_id": 2081539634,
+    "name": "LOVE Korean BBQ",
+    "website": "https://lovekoreanbbq.com/",
+    "phone": "+1-646-669-8147",
+    "cuisine": "chicken;korean",
+    "opening_hours": null
+  },
+  {
+    "osm_id": 2134025590,
+    "name": "Del Frisco's Double Eagle Steakhouse",
+    "website": "https://delfriscos.com/steakhouse/new-york/",
+    "phone": "+1 212-575-5129",
+    "cuisine": "steak_house",
+    "opening_hours": "Mo-Th 11:00-22:00; Fr 11:00-23:00; Sa 16:00-23:00; Su 16:00-22:00"
+  },
+  {
+    "osm_id": 2178443636,
+    "name": "Parkside Lounge",
+    "website": "https://www.parksidelounge.net/",
+    "phone": "+1-212-673-6270",
+    "cuisine": null,
+    "opening_hours": "Su-Mo 12:00-04:00"
+  },
+  {
+    "osm_id": 2279536009,
+    "name": "The Laurels",
+    "website": "https://thelaurelsnyc.com",
+    "phone": "+1-646-398-9002",
+    "cuisine": "mediterranean",
+    "opening_hours": "Mo 15:00-02:00, Tu-We 10:00-02:00, Th-Sa 10:00-04:00, Su 10:00-02:00"
+  },
+  {
+    "osm_id": 2279542456,
+    "name": "IHOP",
+    "website": "https://restaurants.ihop.com/en-us/ny/new-york/breakfast-235-e-14th-st-237-3357",
+    "phone": "+1 212-388-1499",
+    "cuisine": "breakfast;pancake",
+    "opening_hours": "24/7"
+  },
+  {
+    "osm_id": 2300348734,
+    "name": "Chote Nawab",
+    "website": "https://www.chotenawabnyc.com/",
+    "phone": "+1-212-679-4603",
+    "cuisine": "indian",
+    "opening_hours": "Mo-Th 11:30-15:00,17:00-23:00; Fr-Sa 11:30-15:00,17:00-24:00; Su 11:30-15:00,17:00-22:30"
+  },
+  {
+    "osm_id": 2300348739,
+    "name": "Haandi",
+    "website": "https://haandiny.com/",
+    "phone": "+1-212-685-5200",
+    "cuisine": "indian",
+    "opening_hours": "Mo-Fr 11:00-14:30; Sa-Su 11:00-22:00"
+  },
+  {
+    "osm_id": 2300362286,
+    "name": "Diner 24",
+    "website": "https://diner24nyc.com",
+    "phone": "+1-646-852-6921",
+    "cuisine": "diner",
+    "opening_hours": "24/7; 2024 May 16-23: 12:00-24:00; 2024 May 27-30: 12:00-24:00"
+  },
+  {
+    "osm_id": 2307164626,
+    "name": "Barn Joo Nomad",
+    "website": "https://www.barnjoonomad.com",
+    "phone": "+1-917-409-1637",
+    "cuisine": "korean",
+    "opening_hours": null
+  },
+  {
+    "osm_id": 2322155492,
+    "name": "Hell's Kitchen",
+    "website": "https://www.hkhellskitchen.com/",
+    "phone": "+1-212-947-4208",
+    "cuisine": "mediterranean",
+    "opening_hours": null
+  },
+  {
+    "osm_id": 2334601455,
+    "name": "M-Thai",
+    "website": "www.M-Thainyc.com",
+    "phone": "+1 212 229-9799",
+    "cuisine": "thai",
+    "opening_hours": null
+  },
+  {
+    "osm_id": 2358048510,
+    "name": "North Square",
+    "website": "https://northsquareny.com",
+    "phone": "+1-212-254-1200",
+    "cuisine": "american;brunch",
+    "opening_hours": "Mo-Sa 07:15-11:00,12:00-15:30,17:00-23:30; Su 07:15-11:00,12:00-15:30,17:00-23:00"
+  },
+  {
+    "osm_id": 2358048515,
+    "name": "Waverly Diner",
+    "website": "https://waverlydiner.com",
+    "phone": "+1-212-675-3181",
+    "cuisine": "diner",
+    "opening_hours": "Su-We 07:00-23:00; Th 07:00-24:00; Fr-Sa 07:00-01:00"
+  },
+  {
+    "osm_id": 2377128157,
+    "name": "LOULOU",
+    "website": "https://www.loulounyc.com/",
+    "phone": "+1-212-337-9577",
+    "cuisine": null,
+    "opening_hours": "Mo-Th 11:00-00:00; Fr-Su 10:00-00:00"
+  },
+  {
+    "osm_id": 2377128169,
+    "name": "Lasagna Ristorante",
+    "website": "https://lasagnarestaurantchelsea.com",
+    "phone": "+1-212-242-4551",
+    "cuisine": "italian",
+    "opening_hours": null
+  },
+  {
+    "osm_id": 2377128186,
+    "name": "Temerarion",
+    "website": "https://www.temerarionyc.com",
+    "phone": "+1-212-645-2100",
+    "cuisine": "mexican",
+    "opening_hours": null
+  },
+  {
+    "osm_id": 2407447000,
+    "name": "Pad Thai",
+    "website": "https://www.padthai8thave.com/",
+    "phone": "+1 212 268-2752",
+    "cuisine": "thai;japanese",
+    "opening_hours": "Mo-Fr 11:00-22:30; Sa, Su 12:00-22:30"
+  },
+  {
+    "osm_id": 2408375729,
+    "name": "Dallas BBQ",
+    "website": "https://www.dallasbbq.com/chelsea",
+    "phone": "+1-212-462-0001",
+    "cuisine": "barbecue",
+    "opening_hours": "Su-Th 11:30-23:00; Fr,Sa 11:30-24:00"
+  },
+  {
+    "osm_id": 2409935353,
+    "name": "Famous Original Ray's Pizza",
+    "website": "famousoriginalrayschelsea.com",
+    "phone": "+1-212-243-1129",
+    "cuisine": "pizza",
+    "opening_hours": null
+  },
+  {
+    "osm_id": 2409946234,
+    "name": "The Meatball Company",
+    "website": "https://www.themeatballshop.com/locations/#chelsea",
+    "phone": "+1 212-257-4363",
+    "cuisine": null,
+    "opening_hours": "Mo,Su 00:00-02:00,12:00-24:00; Tu-Sa 00:00-04:00,12:00-24:00"
+  },
+  {
+    "osm_id": 2410485653,
+    "name": "Qanoon",
+    "website": "https://www.qanoonnyc.com",
+    "phone": "+1 646-843-9711",
+    "cuisine": "palestinian",
+    "opening_hours": "Mo-Fr 17:00-22:00; Sa, Su 10:00-15:00, 17:00-22:00"
+  },
+  {
+    "osm_id": 2411595316,
+    "name": "Omai",
+    "website": "https://omainyc.com/",
+    "phone": "+1 212-633-0575; +1 212-633-0550",
+    "cuisine": "vietnamese",
+    "opening_hours": null
+  },
+  {
+    "osm_id": 2411595856,
+    "name": "Tipsy Parson",
+    "website": "https://www.tipsyparson.com/",
+    "phone": "+1 212-620-4545",
+    "cuisine": null,
+    "opening_hours": "Mo-Th 11:30-23:00; Fr 11:30-24:00; Sa 10:00-24:00; Su 10:00-22:30"
+  },
+  {
+    "osm_id": 2411819330,
+    "name": "Salinas",
+    "website": "https://salinasnyc.com/",
+    "phone": "+1 212-776-1990",
+    "cuisine": "spanish",
+    "opening_hours": null
+  },
+  {
+    "osm_id": 2412370159,
+    "name": "Olde City",
+    "website": "https://www.loveoldecity.com/",
+    "phone": "+1 929-281-3222",
+    "cuisine": "sandwich",
+    "opening_hours": "Mo-Su 11:00-24:00"
+  },
+  {
+    "osm_id": 2478495089,
+    "name": "BLT Fish",
+    "website": "http://bltfish.com/",
+    "phone": "+1 212 691-8888",
+    "cuisine": "seafood",
+    "opening_hours": null
+  },
+  {
+    "osm_id": 2478495091,
+    "name": "Aldea",
+    "website": "https://aldearestaurant.com/",
+    "phone": "+1 212 675-7223",
+    "cuisine": "spanish",
+    "opening_hours": null
+  },
+  {
+    "osm_id": 2479458329,
+    "name": "Hakata TonTon",
+    "website": "https://www.hakatatonton.net/",
+    "phone": "+1-917-261-6536",
+    "cuisine": "japanese",
+    "opening_hours": "Tu-Th 18:00-21:30, Fr 18:00-22:00, Sa 17:30-22:00, Su 17:30-21:30"
+  },
+  {
+    "osm_id": 2494160674,
+    "name": "Paul's \"Da Burger Joint\"",
+    "website": "https://paulsburgersnyc.com",
+    "phone": "+1-212-529-3033",
+    "cuisine": "burger",
+    "opening_hours": "Mo-Th 11:00-23:30; Fr-Sa 11:00-24:00; Su 11:00-23:30"
+  },
+  {
+    "osm_id": 2494161089,
+    "name": "Mr. Keke",
+    "website": "https://www.mrkeke.net/restaurant-location-manhattan",
+    "phone": "+1-917-328-5777",
+    "cuisine": "ramen",
+    "opening_hours": "Mo-Su 12:00-22:00"
+  },
+  {
+    "osm_id": 2501572681,
+    "name": "Chat n Chew",
+    "website": "https://chatnchewnyc.com/",
+    "phone": "+1-212-243-1616",
+    "cuisine": "american;burger",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa, Su 09:00-22:00"
+  },
+  {
+    "osm_id": 2516877509,
+    "name": "Txikito",
+    "website": "https://www.txikitonyc.com/",
+    "phone": "+1 212-242-4730",
+    "cuisine": "basque",
+    "opening_hours": "Mo-Sa 17:30-23:00; Su 05:30-22:30"
+  },
+  {
+    "osm_id": 2517051874,
+    "name": "Riverpark",
+    "website": "https://www.riverparknyc.com/",
+    "phone": "+1 212 729-9790",
+    "cuisine": "american",
+    "opening_hours": null
+  },
+  {
+    "osm_id": 2522452461,
+    "name": "Port Sa'id",
+    "website": "https://www.portsaidnyc.com/",
+    "phone": "+1-212-256-0841",
+    "cuisine": "mediterranean",
+    "opening_hours": "Mo-Tu 17:00-22:00; We-Th 17:00-23:00; Fr 17:00-25:00; Sa 11:00-15:00, 17:00-25:00"
+  },
+  {
+    "osm_id": 2547036945,
+    "name": "The GRID",
+    "website": "https://greatjonesdistillingco.com/restaurant/",
+    "phone": "+1-332-910-9877",
+    "cuisine": "american",
+    "opening_hours": "We-Su 17:30-21:30"
+  },
+  {
+    "osm_id": 2547110366,
+    "name": "Dos Caminos",
+    "website": "https://www.doscaminos.com/soho/",
+    "phone": "+1-212-277-4300",
+    "cuisine": "mexican",
+    "opening_hours": "We, Th 11:30-23:00; Fr, Sa 11:30-00:00; Mo, Tu, Su 11:30-22:00"
+  },
+  {
+    "osm_id": 2547114752,
+    "name": "Linen Hall",
+    "website": "https://linenhallnyc.com",
+    "phone": "+1-646-602-9316",
+    "cuisine": "american;pub;brunch",
+    "opening_hours": "Mo-Th 11:00-24:00; Fr-Sa 11:00-02:00"
+  },
+  {
+    "osm_id": 2547121482,
+    "name": "Love Mama",
+    "website": "https://lovemamanyc.com",
+    "phone": "+1-212-254-5370",
+    "cuisine": "malaysian;thai;vietnamese",
+    "opening_hours": "Mo-Su 11:30-22:00"
+  },
+  {
+    "osm_id": 2547155245,
+    "name": "Tim Ho Wan",
+    "website": "https://timhowanusa.com",
+    "phone": "+1-212-228-2800",
+    "cuisine": "dim_sum;chinese",
+    "opening_hours": "Mo-Tu 11:30-20:00; We-Th 11:30-20:30; Fr 11:30-21:00; Sa 11:00-21:00; Su 11:00-20:00"
+  },
+  {
+    "osm_id": 2547193376,
+    "name": "Leon's",
+    "website": "https://www.leonsnyc.com",
+    "phone": "+1-646-410-2703",
+    "cuisine": "continental",
+    "opening_hours": "Mo-Fr 08:00-22:00, Sa-Su 10:00-22:00"
+  },
+  {
+    "osm_id": 2547205472,
+    "name": "Sauerkraut Fish",
+    "website": "https://sauerkrautfish9855.com",
+    "phone": "+1-212-388-9855",
+    "cuisine": "chinese",
+    "opening_hours": "Mo-Su 11:30-22:00"
+  },
+  {
+    "osm_id": 2547209021,
+    "name": "Pranakhon",
+    "website": "https://www.pranakhonnyc.com/",
+    "phone": "+1 212 786 6789",
+    "cuisine": "thai",
+    "opening_hours": null
+  },
+  {
+    "osm_id": 2547223602,
+    "name": "Manuela",
+    "website": "https://manuela-nyc.com",
+    "phone": "+1-917-245-2770",
+    "cuisine": null,
+    "opening_hours": null
+  },
+  {
+    "osm_id": 2547241666,
+    "name": "Upside Pizza",
+    "website": "https://www.upsidepizza.com/",
+    "phone": "+19174092989",
+    "cuisine": "pizza",
+    "opening_hours": null
+  },
+  {
+    "osm_id": 2547242036,
+    "name": "Jack\u2019s Wife Freda",
+    "website": "https://jackswifefreda.com",
+    "phone": "+1-212-510-8550",
+    "cuisine": "mediterranean;american;brunch",
+    "opening_hours": "Mo-Th 08:30-22:00; Fr-Sa 08:30-23:00; Su 08:30-21:00"
+  },
+  {
+    "osm_id": 2547246978,
+    "name": "Thai Diner",
+    "website": "https://www.thaidiner.com",
+    "phone": "+1-646-559-4140",
+    "cuisine": "thai",
+    "opening_hours": "Mo-We 08:30-22:30, Th-Fr 08:30-23:30, Sa 10:00-23:30, Su 10:00-22:00"
+  },
+  {
+    "osm_id": 2547247074,
+    "name": "Ki Mi Ka",
+    "website": "https://www.kimikanyc.com",
+    "phone": "+1-212-256-9280",
+    "cuisine": "asian;italian;eclectic",
+    "opening_hours": "Mo-Th 17:00-22:30, Fr-Sa 17:00-23:30, Su 17:00-22:30"
+  },
+  {
+    "osm_id": 2549952990,
+    "name": "Mamazul Mexican Grill",
+    "website": "https://www.mamazulnyc.com/",
+    "phone": "+1-212-500-6988",
+    "cuisine": "mexican",
+    "opening_hours": "Mo-Su 08:00-02:00"
+  },
+  {
+    "osm_id": 2550012191,
+    "name": "Bar Moga",
+    "website": "https://www.barmoga.com/",
+    "phone": "+1-929-399-5853",
+    "cuisine": "japanese;cocktails",
+    "opening_hours": "Mo-Th 17:00-00:00; Fr 17:00-00:30; Sa 12:00-15:00,17:00-00:30; Su 12:00-15:00,17:00-22:00"
+  },
+  {
+    "osm_id": 2550046876,
+    "name": "Artichoke Pizza",
+    "website": "https://www.artichokepizza.com/location/artichoke-basille-pizza-greenwich-village/",
+    "phone": "+1-646-609-1011",
+    "cuisine": "pizza",
+    "opening_hours": "Su,Mo 11:00-24:00; Tu,We 11:00-02:00; Th-Sa 11:00-04:00"
+  },
+  {
+    "osm_id": 2550046894,
+    "name": "Senza Gluten",
+    "website": "https://senzaglutennyc.com/",
+    "phone": "+1-212-475-7775",
+    "cuisine": "italian;coffee",
+    "opening_hours": "Mo-Sa 12:00-23:00; Su 12:00-22:00"
+  },
+  {
+    "osm_id": 2550051106,
+    "name": "Tue Thai Food",
+    "website": "https://www.tuethainyc.com",
+    "phone": "+1-212-929-9888",
+    "cuisine": "thai",
+    "opening_hours": "Mo-Su 11:30-16:00,17:00-23:00"
+  }
+]
